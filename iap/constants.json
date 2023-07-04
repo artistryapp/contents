@@ -1,7 +1,7 @@
 [
     {
-        "server_domain": "",
-        "walls_base_url": "https://______/",
-        "thumbs_base_url": "https://____/thumbs/"
+        "server_domain": "https://artistryapp.github.io/",
+        "walls_base_url": "https://artistryapp.github.io/contents/iap/walls/",
+        "thumbs_base_url": "https://artistryapp.github.io/contents/iap/walls/thumb/"
     }
 ]
