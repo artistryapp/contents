@@ -3,21 +3,21 @@
     "a": "Vuk Andric",
     "d": "1720x3728",
     "n": "wall 1",
-    "t": "Yog_0001.jpg",
-    "u": "Yog_0001.jpg"
+    "t": "scenery/Yog_0001.jpg",
+    "u": "scenery/thumb/Yog_0001.jpg"
   },
   {
     "a": "Vuk Andric",
     "d": "1720x3728",
     "n": "wall 2",
-    "t": "Yog_0002.jpg",
-    "u": "Yog_0002.jpg"
+    "t": "scenery/Yog_0002.jpg",
+    "u": "scenery/thumb/Yog_0002.jpg"
   },
   {
     "a": "Vuk Andric",
     "d": "1720x3728",
     "n": "wall 3",
-    "t": "Yog_0003.jpg",
-    "u": "Yog_0003.jpg"
+    "t": "scenery/Yog_0003.jpg",
+    "u": "scenery/thumb/Yog_0003.jpg"
   }
 ]
