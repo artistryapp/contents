@@ -2,13 +2,15 @@
     {
       "label": "Funko PoP",
       "iap_id": "item_1",
-      "url": "funko",
+      "url": "funko.json",
+      "preview": "funkoPOP.jpg",
       "pro": true
     },
     {
       "label": "Anime Scenery",
       "iap_id": "item_2",
-      "url": "animeScenery",
+      "url": "scenery.json",
+      "preview": "AnimeScenery.jpg",
       "pro": true
     }
 ]
