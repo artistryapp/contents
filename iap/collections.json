@@ -12,5 +12,12 @@
       "url": "scenery.json",
       "preview": "AnimeScenery.jpg",
       "pro": true
+    },
+    {
+      "label": "Nature's Odyssey",
+      "iap_id": "item_3",
+      "url": "naturesOdyssey.json",
+      "preview": "naturesOdyssey.jpg",
+      "pro": true
     }
 ]
