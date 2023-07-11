@@ -7,7 +7,7 @@ for i in range(101, 0, -1):
         "a": "YoG",
         "d": "1472×3200",
         "n": f"name {i}",
-        "t": f"artistry_{i}.jpeg",
+        "t": f"artistry_{i}.jpg",
         "u": f"artistry_{i}.jpeg"
     }
     data.append(entry)
