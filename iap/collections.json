@@ -2,7 +2,7 @@
     {
       "label": "Funko PoP",
       "iap_id": "item_1",
-      "url": "funko.json",
+      "url": "FunkoPOP.json",
       "preview": "funko.jpg",
       "pro": true
     },
@@ -18,6 +18,27 @@
       "iap_id": "item_3",
       "url": "naturesOdyssey.json",
       "preview": "naturesOdyssey.jpg",
+      "pro": true
+    },
+    {
+      "label": "Miniature Cars",
+      "iap_id": "item_3",
+      "url": "MiniatureCars.json",
+      "preview": "MiniatureCars.jpg",
+      "pro": true
+    },
+    {
+      "label": "Chibi Style Animals",
+      "iap_id": "item_3",
+      "url": "chibistyle.json",
+      "preview": "chibistyle.jpg",
+      "pro": true
+    },
+    {
+      "label": "Fancy Animals",
+      "iap_id": "item_3",
+      "url": "fancyAnimals.json",
+      "preview": "fancyAnimals.jpg",
       "pro": true
     }
 ]
