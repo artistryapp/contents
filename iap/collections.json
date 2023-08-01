@@ -4,6 +4,7 @@
       "iap_id": "item_1",
       "url": "FunkoPOP.json",
       "preview": "funko.jpg",
+      "folder": "FunkoPOP",
       "pro": true
     },
     {
@@ -11,6 +12,7 @@
       "iap_id": "item_2",
       "url": "scenery.json",
       "preview": "AnimeScenery.jpg",
+      "folder": "scenery",
       "pro": true
     },
     {
@@ -18,6 +20,7 @@
       "iap_id": "item_3",
       "url": "naturesOdyssey.json",
       "preview": "naturesOdyssey.jpg",
+      "folder": "NaturesOdyssey",
       "pro": true
     },
     {
@@ -25,6 +28,7 @@
       "iap_id": "item_3",
       "url": "MiniatureCars.json",
       "preview": "MiniatureCars.jpg",
+      "folder": "MiniatureCars",
       "pro": true
     },
     {
@@ -32,6 +36,7 @@
       "iap_id": "item_3",
       "url": "chibistyle.json",
       "preview": "chibistyle.jpg",
+      "folder": "ChibiAnimals",
       "pro": true
     },
     {
@@ -39,6 +44,7 @@
       "iap_id": "item_3",
       "url": "fancyAnimals.json",
       "preview": "fancyAnimals.jpg",
+      "folder": "FancyAnimals",
       "pro": true
     }
 ]
