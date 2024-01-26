@@ -5,7 +5,8 @@
       "url": "FunkoPOP.json",
       "preview": "funko.jpg",
       "folder": "FunkoPOP",
-      "pro": true
+      "pro": true,
+      "iap_collections": ["artistry_funko_pop_yearly:artistry-funko-pop-yearly", "artistry_funko_pop:artistry-funko-pop"]
     },
     {
       "label": "Anime Scenery",
