@@ -3,10 +3,10 @@
       "label": "Funko PoP",
       "iap_id": "artistry_funko_pop",
       "url": "FunkoPOP.json",
-      "preview": "funko.jpg",
       "folder": "FunkoPOP",
       "pro": true,
-      "iap_collections": ["artistry_funko_pop_yearly:artistry-funko-pop-yearly", "artistry_funko_pop:artistry-funko-pop"]
+      "iap_collections": ["artistry_funko_pop_yearly:artistry-funko-pop-yearly", "artistry_funko_pop:artistry-funko-pop"],
+      "preview": ["funko_1.jpg", "funko_2.jpg"]
     },
     {
       "label": "Anime Scenery",
