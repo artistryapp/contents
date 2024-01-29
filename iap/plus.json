@@ -1,7 +1,6 @@
 {
   "iap": ["plus_collections_yearly:plus-yarly", "plus_collections:plus-collections-monthly"],
   "wallpapers": [
-[
   {
     "a": "YoG",
     "d": "1472x3200",
@@ -709,6 +708,5 @@
     "t": "artistry_1.jpg",
     "u": "artistry_1.jpeg"
   }
-]
 ]
 }
