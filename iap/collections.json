@@ -1,7 +1,7 @@
 [
     {
       "label": "Funko PoP",
-      "iap_id": "artistry_funko_pop",
+      "iap_id": "funko_pop",
       "url": "FunkoPOP.json",
       "folder": "FunkoPOP",
       "pro": true,
