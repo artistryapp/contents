@@ -5,7 +5,7 @@
       "url": "FunkoPOP.json",
       "folder": "FunkoPOP",
       "pro": true,
-      "iap_collections": ["artistry_funko_pop_yearly:artistry-funko-pop-yearly", "artistry_funko_pop:artistry-funko-pop"],
+      "iap_collections": ["funko_pop"],
       "preview": ["funko_1.jpg", "funko_2.jpg"]
     },
     {
