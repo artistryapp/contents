@@ -11,6 +11,7 @@
     {
       "label": "Anime Scenery",
       "iap_id": "item_2",
+      "iap_collections": [],
       "url": "scenery.json",
       "preview": "AnimeScenery.jpg",
       "folder": "scenery",
@@ -19,6 +20,7 @@
     {
       "label": "Nature's Odyssey",
       "iap_id": "item_3",
+      "iap_collections": [],
       "url": "naturesOdyssey.json",
       "preview": ["NaturesOdyssey.jpg"],
       "folder": "NaturesOdyssey",
@@ -27,6 +29,7 @@
     {
       "label": "Miniature Cars",
       "iap_id": "item_3",
+      "iap_collections": [],
       "url": "MiniatureCars.json",
       "preview": "MiniatureCars.jpg",
       "folder": "MiniatureCars",
@@ -35,6 +38,7 @@
     {
       "label": "Chibi Style Animals",
       "iap_id": "item_3",
+      "iap_collections": [],
       "url": "chibistyle.json",
       "preview": "chibistyle.jpg",
       "folder": "ChibiAnimals",
@@ -43,6 +47,7 @@
     {
       "label": "Fancy Animals",
       "iap_id": "item_3",
+      "iap_collections": [],
       "url": "fancyAnimals.json",
       "preview": "fancyAnimals.jpg",
       "folder": "FancyAnimals",
