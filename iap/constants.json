@@ -4,6 +4,8 @@
         "walls_base_url": "https://artistryapp.github.io/contents/iap/walls/",
         "thumbs_base_url": "https://artistryapp.github.io/contents/iap/walls/thumb/",
         "collection_preview": "https://artistryapp.github.io/contents/iap/collections/previews/",
-        "collection_url": "https://artistryapp.github.io/contents/iap/collections/"
+        "collection_url": "https://artistryapp.github.io/contents/iap/collections/",
+        "plus_base_url": "https://artistryapp.github.io/contents/iap/walls/plus/",
+        "plus_thumb_url": "https://artistryapp.github.io/contents/iap/walls/plus/thumb/"
     }
 ]
