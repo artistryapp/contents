@@ -1,19 +1,27 @@
 [
-    {
+  {
+    "label": "Totoro Figurines",
+    "iap_id": "item_4",
+    "url": "totoro.json",
+    "folder": "totoro",
+    "pro": true,
+    "iap_collections": ["funko_pop"],
+    "preview": ["totoro1.jpg", "totoro2.jpg", "totoro3.jpg", "totoro4.jpg"]
+  },{
       "label": "Funko PoP",
       "iap_id": "funko_pop",
       "url": "FunkoPOP.json",
       "folder": "FunkoPOP",
       "pro": true,
       "iap_collections": ["funko_pop"],
-      "preview": ["funko_1.jpg", "funko_2.jpg"]
+      "preview": ["funko1.jpg", "funko2.jpg", "funko3.jpg", "funko4.jpg", "funko5.jpg", "funko6.jpg"]
     },
     {
       "label": "Nature's Odyssey",
       "iap_id": "item_3",
       "iap_collections": ["funko_pop"],
       "url": "naturesOdyssey.json",
-      "preview": ["NaturesOdyssey.jpg","NaturesOdyssey.jpg"],
+      "preview": ["NaturesOdyssey1.jpg","NaturesOdyssey2.jpg","NaturesOdyssey3.jpg","NaturesOdyssey4.jpg"],
       "folder": "NaturesOdyssey",
       "pro": true
     },
@@ -22,7 +30,7 @@
       "iap_id": "item_2",
       "iap_collections": ["funko_pop"],
       "url": "AnimeScenery.json",
-      "preview": ["AnimeScenery1.jpg","AnimeScenery2.jpg"],
+      "preview": ["AnimeScenery1.jpg","AnimeScenery2.jpg","AnimeScenery3.jpg","AnimeScenery4.jpg"],
       "folder": "scenery",
       "pro": true
     },
