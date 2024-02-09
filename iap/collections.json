@@ -20,9 +20,9 @@
     {
       "label": "Anime Scenery",
       "iap_id": "item_2",
-      "iap_collections": [],
-      "url": "scenery.json",
-      "preview": "AnimeScenery.jpg",
+      "iap_collections": ["funko_pop"],
+      "url": "AnimeScenery.json",
+      "preview": ["AnimeScenery1.jpg","AnimeScenery2.jpg"],
       "folder": "scenery",
       "pro": true
     },
