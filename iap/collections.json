@@ -6,7 +6,8 @@
     "folder": "totoro",
     "pro": true,
     "iap_collections": ["funko_pop"],
-    "preview": ["totoro1.jpg", "totoro2.jpg", "totoro3.jpg", "totoro4.jpg"]
+    "preview": ["totoro1.jpg", "totoro2.jpg", "totoro3.jpg", "totoro4.jpg"],
+    "desc": "Whether you're a fan of Studio Ghibli Animes, totoro from my neighbor totoro, or just loves Animals, Birds, Cute creatures! this pack has got you covered"
   },{
       "label": "Funko PoP",
       "iap_id": "funko_pop",
@@ -14,7 +15,8 @@
       "folder": "FunkoPOP",
       "pro": true,
       "iap_collections": ["funko_pop"],
-      "preview": ["funko1.jpg", "funko2.jpg", "funko3.jpg", "funko4.jpg", "funko5.jpg", "funko6.jpg"]
+      "preview": ["funko1.jpg", "funko2.jpg", "funko3.jpg", "funko4.jpg", "funko5.jpg", "funko6.jpg"],
+      "desc": "Unique collectible figures inspired by popular characters from movies, TV shows, and video games, all recreated in Funko Pop! vinyl figure style. With a mix of iconic heroes, villains, and sidekicks, you're sure to find a wallpaper that suits your style."
     },
     {
       "label": "Nature's Odyssey",
@@ -23,7 +25,8 @@
       "url": "naturesOdyssey.json",
       "preview": ["NaturesOdyssey1.jpg","NaturesOdyssey2.jpg","NaturesOdyssey3.jpg","NaturesOdyssey4.jpg"],
       "folder": "NaturesOdyssey",
-      "pro": true
+      "pro": true,
+      "desc": "Whether you prefer calm lakes with cool tones or coastal cliffs with moody grays, there's a wallpaper for every mood and preference."
     },
     {
       "label": "Anime Scenery",
@@ -32,7 +35,8 @@
       "url": "AnimeScenery.json",
       "preview": ["AnimeScenery1.jpg","AnimeScenery2.jpg","AnimeScenery3.jpg","AnimeScenery4.jpg"],
       "folder": "AnimeScenery",
-      "pro": true
+      "pro": true,
+      "desc": "From Snowy forests to a magical castle, each wallpaper is designed to transport you to a different world"
     },
     {
       "label": "Miniature Cars",
@@ -41,6 +45,7 @@
       "url": "MiniatureCars.json",
       "preview": ["MiniatureCars1.jpg","MiniatureCars2.jpg","MiniatureCars3.jpg","MiniatureCars4.jpg"],
       "folder": "MiniatureCars",
-      "pro": false
+      "pro": false,
+      "desc": "Enjoy the Miniature Cars Collection for free!\nThis collection contains 100+ car models from 1886 to the current era with various shots to capture pure beauty!"
     }
 ]
