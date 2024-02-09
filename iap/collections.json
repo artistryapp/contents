@@ -31,7 +31,7 @@
       "iap_collections": ["funko_pop"],
       "url": "AnimeScenery.json",
       "preview": ["AnimeScenery1.jpg","AnimeScenery2.jpg","AnimeScenery3.jpg","AnimeScenery4.jpg"],
-      "folder": "scenery",
+      "folder": "AnimeScenery",
       "pro": true
     },
     {
@@ -39,26 +39,8 @@
       "iap_id": "item_3",
       "iap_collections": [],
       "url": "MiniatureCars.json",
-      "preview": "MiniatureCars.jpg",
+      "preview": ["MiniatureCars1.jpg","MiniatureCars2.jpg","MiniatureCars3.jpg","MiniatureCars4.jpg"],
       "folder": "MiniatureCars",
-      "pro": true
-    },
-    {
-      "label": "Chibi Style Animals",
-      "iap_id": "item_3",
-      "iap_collections": [],
-      "url": "chibistyle.json",
-      "preview": "chibistyle.jpg",
-      "folder": "ChibiAnimals",
-      "pro": true
-    },
-    {
-      "label": "Fancy Animals",
-      "iap_id": "item_3",
-      "iap_collections": [],
-      "url": "fancyAnimals.json",
-      "preview": "fancyAnimals.jpg",
-      "folder": "FancyAnimals",
-      "pro": true
+      "pro": false
     }
 ]
