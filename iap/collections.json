@@ -9,21 +9,21 @@
       "preview": ["funko_1.jpg", "funko_2.jpg"]
     },
     {
+      "label": "Nature's Odyssey",
+      "iap_id": "item_3",
+      "iap_collections": ["funko_pop"],
+      "url": "naturesOdyssey.json",
+      "preview": ["NaturesOdyssey.jpg","NaturesOdyssey.jpg"],
+      "folder": "NaturesOdyssey",
+      "pro": true
+    },
+    {
       "label": "Anime Scenery",
       "iap_id": "item_2",
       "iap_collections": [],
       "url": "scenery.json",
       "preview": "AnimeScenery.jpg",
       "folder": "scenery",
-      "pro": true
-    },
-    {
-      "label": "Nature's Odyssey",
-      "iap_id": "item_3",
-      "iap_collections": [],
-      "url": "naturesOdyssey.json",
-      "preview": ["NaturesOdyssey.jpg"],
-      "folder": "NaturesOdyssey",
       "pro": true
     },
     {
