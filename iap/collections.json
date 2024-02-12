@@ -2,7 +2,7 @@
   {
     "label": "Totoro Figurines",
     "iap_id": "totoro_figurines",
-    "iap_ids": ["totoro_figurines"],
+    "iap_collections": ["totoro_figurines"],
     "url": "totoro.json",
     "folder": "totoro",
     "pro": true,
@@ -11,7 +11,7 @@
   },{
       "label": "Funko PoP",
       "iap_id": "funko_pop",
-      "iap_ids": ["funko_pop"],
+      "iap_collections": ["funko_pop"],
       "url": "FunkoPOP.json",
       "folder": "FunkoPOP",
       "pro": true,
@@ -21,7 +21,7 @@
     {
       "label": "Nature's Odyssey",
       "iap_id": "item_3",
-      "iap_ids": ["item_3"],
+      "iap_collections": ["item_3"],
       "url": "naturesOdyssey.json",
       "preview": ["NaturesOdyssey1.jpg","NaturesOdyssey2.jpg","NaturesOdyssey3.jpg","NaturesOdyssey4.jpg"],
       "folder": "NaturesOdyssey",
@@ -31,7 +31,7 @@
     {
       "label": "Anime Scenery",
       "iap_id": "anime_scenery",
-      "iap_ids": ["anime_scenery"],
+      "iap_collections": ["anime_scenery"],
       "url": "AnimeScenery.json",
       "preview": ["AnimeScenery1.jpg","AnimeScenery2.jpg","AnimeScenery3.jpg","AnimeScenery4.jpg"],
       "folder": "AnimeScenery",
@@ -41,7 +41,7 @@
     {
       "label": "Miniature Cars",
       "iap_id": "item_4",
-      "iap_ids": ["item_4"],
+      "iap_collections": ["item_4"],
       "url": "MiniatureCars.json",
       "preview": ["MiniatureCars1.jpg","MiniatureCars2.jpg","MiniatureCars3.jpg","MiniatureCars4.jpg"],
       "folder": "MiniatureCars",
