@@ -2,7 +2,7 @@ import json
 
 odyssey_data = []
 
-for i in range(51, 22, -1):
+for i in range(90, 52, -1):
     entry = {
        "a": "YoG",
         "d": "1472x3200",
