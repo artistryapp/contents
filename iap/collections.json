@@ -6,7 +6,7 @@
     "url": "brushedReality.json",
     "folder": "brushedReality",
     "pro": true,
-    "preview": ["brushedReality11.jpg","brushedReality2.jpg","brushedReality3.jpg","brushedReality4.jpg"],
+    "preview": ["br1.jpg","br2.jpg","br3.jpg","br4.jpg"],
     "desc": "Stunning brushed artworks inspired by Google pixel's Curated Culture collection, Vibrant Collection which takes you to whole new imaginative world"
   },
   {
@@ -16,8 +16,8 @@
     "url": "totoro.json",
     "folder": "totoro",
     "pro": true,
-    "preview": ["totoro1.jpg", "totoro2.jpg", "totoro3.jpg", "totoro4.jpg"],
-    "desc": "Whether you're a fan of Studio Ghibli Animes, totoro from my neighbor totoro, or just loves Animals, Birds, Cute creatures! this pack has got you covered"
+    "preview": ["t1.jpg", "t2.jpg", "t3.jpg", "t4.jpg"],
+    "desc": "Whether you're a fan of Studio Ghibli Animes, My neighbor totoro, or just loves Animals, Birds, Cute creatures! this pack has got you covered"
   },{
       "label": "Funko PoP",
       "iap_id": "funko_pop",
@@ -25,7 +25,7 @@
       "url": "FunkoPOP.json",
       "folder": "FunkoPOP",
       "pro": true,
-      "preview": ["funko1.jpg", "funko2.jpg", "funko3.jpg", "funko4.jpg", "funko5.jpg", "funko6.jpg"],
+      "preview": ["fp1.jpg", "fp2.jpg", "fp3.jpg", "fp4.jpg"],
       "desc": "Unique collectible figures inspired by popular characters from movies, TV shows, and video games, all recreated in Funko Pop! vinyl figure style. With a mix of iconic heroes, villains, and sidekicks, you're sure to find a wallpaper that suits your style."
     },
     {
@@ -33,7 +33,7 @@
       "iap_id": "item_3",
       "iap_collections": ["item_3"],
       "url": "naturesOdyssey.json",
-      "preview": ["NaturesOdyssey1.jpg","NaturesOdyssey2.jpg","NaturesOdyssey3.jpg","NaturesOdyssey4.jpg"],
+      "preview": ["od1.jpg","od2.jpg","od3.jpg","od4.jpg"],
       "folder": "NaturesOdyssey",
       "pro": false,
       "desc": "Whether you prefer calm lakes with cool tones or coastal cliffs with moody grays, there's a wallpaper for every mood and preference."
@@ -43,9 +43,9 @@
       "iap_id": "anime_scenery",
       "iap_collections": ["anime_scenery"],
       "url": "AnimeScenery.json",
-      "preview": ["AnimeScenery1.jpg","AnimeScenery2.jpg","AnimeScenery3.jpg","AnimeScenery4.jpg"],
+      "preview": ["as1.jpg","as2.jpg"],
       "folder": "AnimeScenery",
-      "pro": true,
+      "pro": false,
       "desc": "From Snowy forests to a magical castle, each wallpaper is designed to transport you to a different world"
     },
     {
@@ -53,7 +53,7 @@
       "iap_id": "item_4",
       "iap_collections": ["item_4"],
       "url": "MiniatureCars.json",
-      "preview": ["MiniatureCars1.jpg","MiniatureCars2.jpg","MiniatureCars3.jpg","MiniatureCars4.jpg"],
+      "preview": ["mac1.jpg","mac2.jpg","mac3.jpg","mac4.jpg"],
       "folder": "MiniatureCars",
       "pro": false,
       "desc": "Enjoy the Miniature Cars Collection for free!\nThis collection contains 100+ car models from 1886 to the current era with various shots to capture pure beauty!"
