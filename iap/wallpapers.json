@@ -2,6 +2,30 @@
   {
     "a": "YoG",
     "d": "1720 x 3728",
+    "c": "Illustration",
+    "n": "Cup of tea",
+    "t": "zeel_00271.jpg",
+    "u": "zeel_00271.jpg"
+  },
+  {
+    "a": "YoG",
+    "d": "1720 x 3728",
+    "c": "Illustration",
+    "n": "Boat",
+    "t": "zeel_00272.jpg",
+    "u": "zeel_00272.jpg"
+  },
+  {
+    "a": "YoG",
+    "d": "1720 x 3728",
+    "c":"Illustration",
+    "n": "Ramen",
+    "t": "zeel_00273.jpg",
+    "u": "zeel_00273.jpg"
+  },
+  {
+    "a": "YoG",
+    "d": "1720 x 3728",
     "c": "Pixels",
     "n": "Village 1",
     "t": "zeel_00303.jpg",
@@ -237,30 +261,6 @@
     "n": "SkyScraper",
     "t": "zeel_00274.jpg",
     "u": "zeel_00274.jpg"
-  },
-  {
-    "a": "YoG",
-    "d": "1720 x 3728",
-    "c":"Illustration",
-    "n": "Ramen",
-    "t": "zeel_00273.jpg",
-    "u": "zeel_00273.jpg"
-  },
-  {
-    "a": "YoG",
-    "d": "1720 x 3728",
-    "c": "Illustration",
-    "n": "Boat",
-    "t": "zeel_00272.jpg",
-    "u": "zeel_00272.jpg"
-  },
-  {
-    "a": "YoG",
-    "d": "1720 x 3728",
-    "c": "Illustration",
-    "n": "Cup of tea",
-    "t": "zeel_00271.jpg",
-    "u": "zeel_00271.jpg"
   },
   {
     "a": "YoG",
@@ -953,30 +953,6 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Gradient",
-      "n": "Waves 1",
-      "t": "zeel_00179.jpg",
-      "u": "zeel_00179.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Gaming",
-      "n": "Waves 2",
-      "t": "zeel_00178.jpg",
-      "u": "zeel_00178.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Gradient",
-      "n": "Waves 3",
-      "t": "zeel_00177.jpg",
-      "u": "zeel_00177.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
       "c": "Architecture",
       "n": "Arc 1",
       "t": "zeel_00176.jpg",
@@ -1001,30 +977,6 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
-      "n": "Mountains",
-      "t": "zeel_00173.jpg",
-      "u": "zeel_00173.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Wildlife",
-      "n": "Cat",
-      "t": "zeel_00172.jpg",
-      "u": "zeel_00172.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Artscapes",
-      "n": "Boat",
-      "t": "zeel_00171.jpg",
-      "u": "zeel_00171.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
       "c": "Amoled",
       "n": "Blocks 1",
       "t": "zeel_00170.jpg",
@@ -1045,102 +997,6 @@
       "n": "Blocks 3",
       "t": "zeel_00168.jpg",
       "u": "zeel_00168.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Artscapes",
-      "n": "View from Window 1",
-      "t": "zeel_00167.jpg",
-      "u": "zeel_00167.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Artscapes",
-      "n": "View from Window 2",
-      "t": "zeel_00166.jpg",
-      "u": "zeel_00166.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Artscapes",
-      "n": "View from Window 3",
-      "t": "zeel_00165.jpg",
-      "u": "zeel_00165.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Photoscapes",
-      "n": "Forest 1",
-      "t": "zeel_00164.jpg",
-      "u": "zeel_00164.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Photoscapes",
-      "n": "Forest 2",
-      "t": "zeel_00163.jpg",
-      "u": "zeel_00163.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Photoscapes",
-      "n": "Forest 3",
-      "t": "zeel_00162.jpg",
-      "u": "zeel_00162.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Paint",
-      "n": "Brush 1",
-      "t": "zeel_00161.jpg",
-      "u": "zeel_00161.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Paint",
-      "n": "Brush 2",
-      "t": "zeel_00160.jpg",
-      "u": "zeel_00160.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Paint",
-      "n": "Brush 3",
-      "t": "zeel_00159.jpg",
-      "u": "zeel_00159.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Architecture",
-      "n": "Cityscape 1",
-      "t": "zeel_00158.jpg",
-      "u": "zeel_00158.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Architecture",
-      "n": "Cityscape 2",
-      "t": "zeel_00157.jpg",
-      "u": "zeel_00157.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Architecture",
-      "n": "Cityscape 3",
-      "t": "zeel_00156.jpg",
-      "u": "zeel_00156.jpg"
     },
     {
       "a": "YoG",
@@ -1289,54 +1145,6 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
-      "n": "Mountain 1",
-      "t": "zeel_00134.jpg",
-      "u": "zeel_00134.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Photoscapes",
-      "n": "Mountain 2",
-      "t": "zeel_00133.jpg",
-      "u": "zeel_00133.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Photoscapes",
-      "n": "Mountain 3",
-      "t": "zeel_00132.jpg",
-      "u": "zeel_00132.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Artscapes",
-      "n": "View 1",
-      "t": "zeel_00131.jpg",
-      "u": "zeel_00131.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Artscapes",
-      "n": "View 2",
-      "t": "zeel_00130.jpg",
-      "u": "zeel_00130.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Artscapes",
-      "n": "View 3",
-      "t": "zeel_00129.jpg",
-      "u": "zeel_00129.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
       "c": "Artscapes",
       "n": "Colorful 1",
       "t": "zeel_00128.jpg",
@@ -1361,30 +1169,6 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
-      "n": "Pathway 1",
-      "t": "zeel_00125.jpg",
-      "u": "zeel_00125.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Artscapes",
-      "n": "Pathway 2",
-      "t": "zeel_00124.jpg",
-      "u": "zeel_00124.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Artscapes",
-      "n": "Pathway 3",
-      "t": "zeel_00123.jpg",
-      "u": "zeel_00123.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
       "c": "Clouds",
       "n": "Clouds 1",
       "t": "zeel_00122.jpg",
@@ -1405,30 +1189,6 @@
       "n": "Clouds 3",
       "t": "zeel_00120.jpg",
       "u": "zeel_00120.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Abstract",
-      "n": "Waves 10",
-      "t": "zeel_00119.jpg",
-      "u": "zeel_00119.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Abstract",
-      "n": "Waves 12",
-      "t": "zeel_00118.jpg",
-      "u": "zeel_00118.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Abstract",
-      "n": "Waves 13",
-      "t": "zeel_00117.jpg",
-      "u": "zeel_00117.jpg"
     },
     {
       "a": "YoG",
@@ -1506,30 +1266,6 @@
       "a": "YoG",
       "d": "1720x3728",
       "c": "Artscapes",
-      "n": "Above 1",
-      "t": "zeel_00107.jpg",
-      "u": "zeel_00107.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Artscapes",
-      "n": "Above 2",
-      "t": "zeel_00106.jpg",
-      "u": "zeel_00106.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Artscapes",
-      "n": "Above 3",
-      "t": "zeel_00105.jpg",
-      "u": "zeel_00105.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Artscapes",
       "n": "Tree",
       "t": "zeel_00104.jpg",
       "u": "zeel_00104.jpg"
@@ -1545,9 +1281,16 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Amoled,Aesthetic,Gaming,3D Renders,Floral,Space,Cute,Kawaii,Futuristic,Pastel,Simple,Characters,Pink,Anime,Artscapes,Illustration,Photoscapes,Photoscapes",
+      "c": "Artscapes",
       "n": "River",
       "t": "zeel_00102.jpg",
       "u": "zeel_00102.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Amoled,Aesthetic,Gaming,3D Renders,Floral,Space,Cute,Kawaii,Futuristic,Pastel,Simple,Characters,Pink,Anime,Artscapes,Illustration,Photoscapes,Photoscapes",
+      "n": "River",
+      "t": "placeholder.jpg",
+      "u": "placeholder.jpg"
     }
 ]

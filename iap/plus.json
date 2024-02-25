@@ -173,6 +173,30 @@
     {
       "a": "YoG",
       "d": "1472x3200",
+      "c": "Illustration",
+      "n": "Cat",
+      "t": "ZeelPlus_0029.jpg",
+      "u": "ZeelPlus_0029.jpg"
+    },
+    {
+      "a": "YoG",
+      "d": "1472x3200",
+      "c": "Illustration",
+      "n": "player",
+      "t": "ZeelPlus_0028.jpg",
+      "u": "ZeelPlus_0028.jpg"
+    },
+    {
+      "a": "YoG",
+      "d": "1472x3200",
+      "c": "Illustration",
+      "n": "Camera",
+      "t": "ZeelPlus_0030.jpg",
+      "u": "ZeelPlus_0030.jpg"
+    },
+    {
+      "a": "YoG",
+      "d": "1472x3200",
       "c": "Robots",
       "n": "lost in nature 3",
       "t": "ZeelPlus_0069.jpg",
@@ -484,30 +508,6 @@
     {
       "a": "YoG",
       "d": "1472x3200",
-      "c": "Illustration",
-      "n": "Camera",
-      "t": "ZeelPlus_0030.jpg",
-      "u": "ZeelPlus_0030.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1472x3200",
-      "c": "Illustration",
-      "n": "Cat",
-      "t": "ZeelPlus_0029.jpg",
-      "u": "ZeelPlus_0029.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1472x3200",
-      "c": "Illustration",
-      "n": "player",
-      "t": "ZeelPlus_0028.jpg",
-      "u": "ZeelPlus_0028.jpg"
-    },
-    {
-      "a": "YoG",
-      "d": "1472x3200",
       "c": "Artscapes",
       "n": "stars 3",
       "t": "ZeelPlus_0027.jpg",
@@ -597,30 +597,6 @@
         "a": "YoG",
         "d": "1472x3200",
         "c": "Artscapes",
-        "n": "Road 1",
-        "t": "ZeelPlus_0015.jpg",
-        "u": "ZeelPlus_0015.jpg"
-      },
-      {
-        "a": "YoG",
-        "d": "1472x3200",
-        "c": "Artscapes",
-        "n": "Road 2",
-        "t": "ZeelPlus_0014.jpg",
-        "u": "ZeelPlus_0014.jpg"
-      },
-      {
-        "a": "YoG",
-        "d": "1472x3200",
-        "c": "Artscapes",
-        "n": "Road 3",
-        "t": "ZeelPlus_0013.jpg",
-        "u": "ZeelPlus_0013.jpg"
-      },
-      {
-        "a": "YoG",
-        "d": "1472x3200",
-        "c": "Artscapes",
         "n": "Cat Owner 1",
         "t": "ZeelPlus_0012.jpg",
         "u": "ZeelPlus_0012.jpg"
@@ -692,25 +668,9 @@
       {
         "a": "YoG",
         "d": "1472x3200",
-        "c": "Gradient",
-        "n": "Blob 1",
-        "t": "ZeelPlus_003.jpg",
-        "u": "ZeelPlus_003.jpg"
-      },
-      {
-        "a": "YoG",
-        "d": "1472x3200",
-        "c": "Gradient",
-        "n": "Blob 2",
-        "t": "ZeelPlus_002.jpg",
-        "u": "ZeelPlus_002.jpg"
-      },
-      {
-        "a": "YoG",
-        "d": "1472x3200",
         "c": "Amoled,Aesthetic,Gaming,3D Renders,Floral,Space,Cute,Kawaii,Futuristic,Pastel,Simple,Characters,Pink,Anime,Artscapes,Illustration,Photoscapes,Photoscapes",
-        "n": "Blob 3",
-        "t": "ZeelPlus_001.jpg",
-        "u": "ZeelPlus_001.jpg"
+        "n": "NOT A WALLPAPER",
+        "t": "placeholder.jpg",
+        "u": "placeholder.jpg"
       }
 ]}
