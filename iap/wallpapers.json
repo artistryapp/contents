@@ -2,6 +2,27 @@
   {
     "a": "YoG",
     "d": "1720 x 3728",
+    "c": "Artscapes",
+    "n": "Paved Path 1",
+    "t": "zeel_00306.jpg",
+    "u": "zeel_00306.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
+    "c": "Artscapes",
+    "n": "Paved Path 2",
+    "t": "zeel_00305.jpg",
+    "u": "zeel_00305.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
+    "c": "Artscapes",
+    "n": "Paved Path 3",
+    "t": "zeel_00304.jpg",
+    "u": "zeel_00304.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
     "c": "Illustration",
     "n": "Cup of tea",
     "t": "zeel_00271.jpg",
@@ -1285,12 +1306,5 @@
       "n": "River",
       "t": "zeel_00102.jpg",
       "u": "zeel_00102.jpg"
-    },{
-      "a": "YoG",
-      "d": "1720x3728",
-      "c": "Amoled,Aesthetic,Gaming,3D Renders,Floral,Space,Cute,Kawaii,Futuristic,Pastel,Simple,Characters,Pink,Anime,Artscapes,Illustration,Photoscapes,Photoscapes",
-      "n": "River",
-      "t": "placeholder.jpg",
-      "u": "placeholder.jpg"
     }
 ]
