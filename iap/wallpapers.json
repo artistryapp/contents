@@ -2,6 +2,27 @@
   {
     "a": "YoG",
     "d": "1720 x 3728",
+    "c": "Artscapes",
+    "n": "Falling leaves 1",
+    "t": "zeel_00306.jpg",
+    "u": "zeel_00306.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
+    "c": "Artscapes",
+    "n": "Falling leaves 2",
+    "t": "zeel_00305.jpg",
+    "u": "zeel_00305.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
+    "c": "Artscapes",
+    "n": "Falling leaves 3",
+    "t": "zeel_00304.jpg",
+    "u": "zeel_00304.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
     "c": "Illustration",
     "n": "Guy on Desk 1",
     "t": "zeel_00311.jpg",
@@ -1115,7 +1136,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes, Architecture",
+      "c": "Photoscapes",
       "n": "Lone house 1",
       "t": "zeel_00146.jpg",
       "u": "zeel_00146.jpg"
@@ -1123,7 +1144,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes, Architecture",
+      "c": "Photoscapes",
       "n": "Lone house 2",
       "t": "zeel_00145.jpg",
       "u": "zeel_00145.jpg"
@@ -1131,7 +1152,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes, Architecture",
+      "c": "Photoscapes",
       "n": "Lone house 3",
       "t": "zeel_00144.jpg",
       "u": "zeel_00144.jpg"
