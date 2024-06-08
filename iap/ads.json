@@ -1,11 +1,11 @@
 [
     {
-        img: 'https://artistryapp.github.io/contents/iap/ads/pro.jpg',
-        type: 'pro'
+        "img": "https://artistryapp.github.io/contents/iap/ads/pro.jpg",
+        "type": "pro"
     },
     {
-        img: 'https://artistryapp.github.io/contents/iap/ads/collection.jpg',
-        type: 'collections',
-        collection: 'folder_name'
+        "img": "https://artistryapp.github.io/contents/iap/ads/collection.jpg",
+        "type": "collections",
+        "collection": "folder_name"
     }
 ]
