@@ -57,5 +57,15 @@
       "folder": "MiniatureCars",
       "pro": false,
       "desc": "Enjoy the Miniature Cars Collection for free!\nThis collection contains 100+ car models from 1886 to the current era with various shots to capture pure beauty!"
+    },
+    {
+      "label": "Kawaii Cutesy",
+      "iap_id": "kawaii_cutesy",
+      "iap_collections": ["kawaii_cutesy"],
+      "url": "KawaiiCutesy.json",
+      "folder": "KawaiiCutesy",
+      "pro": true,
+      "preview": ["kw1.jpg","kw4.jpg","kw7.jpg","kw2.jpg","kw3.jpg","kw6.jpg","kw5.jpg"],
+      "desc": "Aesthetic outlined artworks surrounded by nature elements, it's beautiful, vibrant and perfect for lockscreens"
     }
 ]
