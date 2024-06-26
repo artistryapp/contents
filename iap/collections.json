@@ -40,8 +40,6 @@
     },
     {
       "label": "Nature's Odyssey",
-      "iap_id": "item_3",
-      "iap_collections": ["item_3"],
       "url": "naturesOdyssey.json",
       "preview": ["odc1.jpg","odc2.jpg","odc3.jpg","odc4.jpg","odc5.jpg","odc6.jpg","odc7.jpg","odc8.jpg"],
       "folder": "NaturesOdyssey",
@@ -50,8 +48,6 @@
     },
     {
       "label": "Anime Scenery",
-      "iap_id": "anime_scenery",
-      "iap_collections": ["anime_scenery"],
       "url": "AnimeScenery.json",
       "preview": ["asn1.jpg","asn2.jpg","asn3.jpg","asn4.jpg","asn5.jpg","asn6.jpg","asn7.jpg"],
       "folder": "AnimeScenery",
@@ -60,8 +56,6 @@
     },
     {
       "label": "Miniature Cars",
-      "iap_id": "item_4",
-      "iap_collections": ["item_4"],
       "url": "MiniatureCars.json",
       "preview": ["mc1.jpg","mc2.jpg","mc3.jpg","mc4.jpg","mc5.jpg","mc6.jpg","mc7.jpg","mc8.jpg"],
       "folder": "MiniatureCars",
@@ -70,8 +64,6 @@
     },
     {
       "label": "Chibi Style Animals",
-      "iap_id": "item_6",
-      "iap_collections": ["item_6"],
       "url": "chibistyle.json",
       "folder": "ChibiAnimals",
       "pro": false,
@@ -79,8 +71,6 @@
       "desc": "Chibi Style Animal Wallpapers, one of our first AI wallpaper collections, has been brought back by popular demand for our users to enjoy within the app."
     },{
       "label": "Fancy Animals",
-      "iap_id": "item_7",
-      "iap_collections": ["item_7"],
       "url": "fancyAnimals.json",
       "folder": "FancyAnimals",
       "pro": false,
