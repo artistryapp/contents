@@ -1,5 +1,14 @@
 [
   {
+    "label": "Stock Alike",
+    "iap_id": "stock_alike",
+    "iap_collections": ["stock_alike"],
+    "url": "alike.json",
+    "folder": "alike",
+    "pro": true,
+    "preview": ["sa4.jpg","sa3.jpg","sa5.jpg","sa9.jpg","sa6.jpg","sa7.jpg","sa2.jpg","sa1.jpg"],
+    "desc": "Walls that capture the essence n vibes of brand-new phone. designs that feel both familiar and refreshingly unique."
+  },{
     "label": "Kawaii Cutesy",
     "iap_id": "kawaii_cutesy",
     "iap_collections": ["kawaii_cutesy"],
