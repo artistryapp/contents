@@ -5,7 +5,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Vehicles",
+      "c": "Vehicles,Featured",
       "n": "Road Trip 1",
       "t": "ZeelPlus_00448.jpg",
       "u": "ZeelPlus_00448.jpg"
@@ -19,21 +19,21 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Vehicles",
+      "c": "Vehicles,Featured",
       "n": "Road Trip 3",
       "t": "ZeelPlus_00450.jpg",
       "u": "ZeelPlus_00450.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "3D Renders",
+      "c": "3D Renders,Featured",
       "n": "RimLit Waves 1",
       "t": "ZeelPlus_00445.jpg",
       "u": "ZeelPlus_00445.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "3D Renders",
+      "c": "3D Renders,Featured",
       "n": "RimLit Waves 2",
       "t": "ZeelPlus_00446.jpg",
       "u": "ZeelPlus_00446.jpg"
@@ -47,7 +47,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Beach 1",
       "t": "ZeelPlus_00442.jpg",
       "u": "ZeelPlus_00442.jpg"
@@ -82,7 +82,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Texture",
+      "c": "Texture,Featured",
       "n": "Grey Cotton Scarf",
       "t": "ZeelPlus_00441.jpg",
       "u": "ZeelPlus_00441.jpg"
@@ -110,7 +110,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Featured",
       "n": "Modern Faces 1",
       "t": "ZeelPlus_00433.jpg",
       "u": "ZeelPlus_00433.jpg"
@@ -131,7 +131,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Cosmic  Vision 1",
       "t": "ZeelPlus_00430.jpg",
       "u": "ZeelPlus_00430.jpg"
@@ -152,7 +152,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Pixels",
+      "c": "Pixels,Featured",
       "n": "Scenery 1",
       "t": "ZeelPlus_00427.jpg",
       "u": "ZeelPlus_00427.jpg"
@@ -173,7 +173,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Illustration",
+      "c": "Illustration,Featured",
       "n": "Cloudy head 1",
       "t": "ZeelPlus_00412.jpg",
       "u": "ZeelPlus_00412.jpg"
@@ -208,14 +208,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "3D Renders",
+      "c": "3D Renders,Featured",
       "n": "Pod 3",
       "t": "ZeelPlus_00423.jpg",
       "u": "ZeelPlus_00423.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Wildlife",
+      "c": "Wildlife,Featured",
       "n": "Peacock feather",
       "t": "ZeelPlus_00424.jpg",
       "u": "ZeelPlus_00424.jpg"
@@ -233,6 +233,13 @@
       "n": "Eagle feather",
       "t": "ZeelPlus_00426.jpg",
       "u": "ZeelPlus_00426.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Artscapes,Featured",
+      "n": "Bonding 1",
+      "t": "ZeelPlus_00418.jpg",
+      "u": "ZeelPlus_00418.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
@@ -271,7 +278,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
+      "c": "Photoscapes,Featured",
       "n": "Arial View of Edge 1",
       "t": "ZeelPlus_00409.jpg",
       "u": "ZeelPlus_00409.jpg"
@@ -285,14 +292,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
+      "c": "Photoscapes,Featured",
       "n": "Arial View of Edge 3",
       "t": "ZeelPlus_00411.jpg",
       "u": "ZeelPlus_00411.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Pattern",
+      "c": "Pattern,Featured",
       "n": "Honeycomb",
       "t": "ZeelPlus_00406.jpg",
       "u": "ZeelPlus_00406.jpg"
@@ -313,7 +320,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Mountain Melodies 1",
       "t": "ZeelPlus_00403.jpg",
       "u": "ZeelPlus_00403.jpg"
@@ -404,7 +411,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Pattern",
+      "c": "Pattern,Featured",
       "n": "Aesthetic Chaos 2",
       "t": "ZeelPlus_00392.jpg",
       "u": "ZeelPlus_00392.jpg"
@@ -418,7 +425,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "kawaii",
+      "c": "kawaii,Featured",
       "n": "maki rolls",
       "t": "ZeelPlus_00388.jpg",
       "u": "ZeelPlus_00388.jpg"
@@ -439,7 +446,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Vehicles",
+      "c": "Vehicles,Featured",
       "n": "Dusk Ride 1",
       "t": "ZeelPlus_00385.jpg",
       "u": "ZeelPlus_00385.jpg"
@@ -488,7 +495,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Hurray 2",
       "t": "ZeelPlus_00380.jpg",
       "u": "ZeelPlus_00380.jpg"
@@ -566,7 +573,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Robots",
+      "c": "Robots,Featured",
       "n": "Stone Bot",
       "t": "ZeelPlus_00367.jpg",
       "u": "ZeelPlus_00367.jpg"
@@ -615,7 +622,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Ducks Twilight Reverie 2",
       "t": "ZeelPlus_00362.jpg",
       "u": "ZeelPlus_00362.jpg"
@@ -629,7 +636,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "kawaii,pattern",
+      "c": "kawaii,pattern,Featured",
       "n": "Kawaii 1",
       "t": "ZeelPlus_00358.jpg",
       "u": "ZeelPlus_00358.jpg"
@@ -650,7 +657,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Featured",
       "n": "TV Head 1",
       "t": "ZeelPlus_00355.jpg",
       "u": "ZeelPlus_00355.jpg"
@@ -665,7 +672,7 @@
       "a": "YoG",
       "d": "1720x3728",
       "c": "Faces",
-      "n": "TV Head 3",
+      "n": "TV Head 3,Featured",
       "t": "ZeelPlus_00357.jpg",
       "u": "ZeelPlus_00357.jpg"
     },{
@@ -685,14 +692,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Arctic 3",
       "t": "ZeelPlus_00354.jpg",
       "u": "ZeelPlus_00354.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Soul of Mountain 1",
       "t": "ZeelPlus_00349.jpg",
       "u": "ZeelPlus_00349.jpg"
@@ -713,14 +720,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Amoled",
+      "c": "Amoled,Featured",
       "n": "Shinny 1",
       "t": "ZeelPlus_00346.jpg",
       "u": "ZeelPlus_00346.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Amoled",
+      "c": "Amoled,Featured",
       "n": "Shinny 2",
       "t": "ZeelPlus_00347.jpg",
       "u": "ZeelPlus_00347.jpg"
@@ -741,7 +748,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Wildlife",
+      "c": "Wildlife,Featured",
       "n": "Badass Gorrila 2",
       "t": "ZeelPlus_00344.jpg",
       "u": "ZeelPlus_00344.jpg"
@@ -769,14 +776,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Wildlife",
+      "c": "Wildlife,Featured",
       "n": "Cloudy White Cat",
       "t": "ZeelPlus_00339.jpg",
       "u": "ZeelPlus_00339.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "kawaii",
+      "c": "kawaii,Featured",
       "n": "Cute bear 1",
       "t": "ZeelPlus_00340.jpg",
       "u": "ZeelPlus_00340.jpg"
@@ -797,7 +804,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Sinking under Colorful Clouds",
       "t": "ZeelPlus_00334.jpg",
       "u": "ZeelPlus_00334.jpg"
@@ -860,28 +867,28 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Abstract",
+      "c": "Abstract,Featured",
       "n": "Nature in steps",
       "t": "ZeelPlus_00325.jpg",
       "u": "ZeelPlus_00325.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Abstract",
+      "c": "Abstract,Featured",
       "n": "Nature in steps",
       "t": "ZeelPlus_00326.jpg",
       "u": "ZeelPlus_00326.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Abstract",
+      "c": "Abstract,Featured",
       "n": "Nature in steps",
       "t": "ZeelPlus_00327.jpg",
       "u": "ZeelPlus_00327.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Wildlife",
+      "c": "Wildlife,Featured",
       "n": "Baby Otter",
       "t": "ZeelPlus_00322.jpg",
       "u": "ZeelPlus_00322.jpg"
@@ -923,7 +930,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Brown forest 1",
       "t": "ZeelPlus_00319.jpg",
       "u": "ZeelPlus_00319.jpg"
@@ -944,7 +951,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Amoled",
+      "c": "Amoled,Featured",
       "n": "Googly Eyes",
       "t": "ZeelPlus_00316.jpg",
       "u": "ZeelPlus_00316.jpg"
@@ -958,7 +965,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Amoled",
+      "c": "Amoled,Featured",
       "n": "Paralyzed Guy",
       "t": "ZeelPlus_00318.jpg",
       "u": "ZeelPlus_00318.jpg"
@@ -1014,7 +1021,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Abstract",
+      "c": "Abstract,Featured",
       "n": "Snowy Texture 2",
       "t": "ZeelPlus_00305.jpg",
       "u": "ZeelPlus_00305.jpg"
@@ -1077,7 +1084,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Old Man in farm",
       "t": "ZeelPlus_00299.jpg",
       "u": "ZeelPlus_00299.jpg"
@@ -1091,7 +1098,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Tent",
       "t": "ZeelPlus_00295.jpg",
       "u": "ZeelPlus_00295.jpg"
@@ -1133,7 +1140,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Amoled",
+      "c": "Amoled,Featured",
       "n": "Waves 1",
       "t": "ZeelPlus_00286.jpg",
       "u": "ZeelPlus_00286.jpg"
@@ -1280,14 +1287,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "European Street at night 1",
       "t": "ZeelPlus_00259.jpg",
       "u": "ZeelPlus_00259.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "European Street at night 2",
       "t": "ZeelPlus_00260.jpg",
       "u": "ZeelPlus_00260.jpg"
@@ -1427,7 +1434,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Amoled,Abstract",
+      "c": "Amoled,Abstract,Featured",
       "n": "Neon Crystal Floor 1",
       "t": "ZeelPlus_00238.jpg",
       "u": "ZeelPlus_00238.jpg"
@@ -1448,14 +1455,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Tropical footsteps 1",
       "t": "ZeelPlus_00235.jpg",
       "u": "ZeelPlus_00235.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Tropical footsteps 2",
       "t": "ZeelPlus_00236.jpg",
       "u": "ZeelPlus_00236.jpg"
@@ -1511,14 +1518,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Autumn Forest 1",
       "t": "ZeelPlus_00226.jpg",
       "u": "ZeelPlus_00226.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Autumn Forest 2",
       "t": "ZeelPlus_00227.jpg",
       "u": "ZeelPlus_00227.jpg"
@@ -1532,7 +1539,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Clouds",
+      "c": "Clouds,Featured",
       "n": "Resting Clouds 1",
       "t": "ZeelPlus_00223.jpg",
       "u": "ZeelPlus_00223.jpg"
@@ -1553,7 +1560,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Wildlife",
+      "c": "Wildlife,Featured",
       "n": "Cat",
       "t": "ZeelPlus_00220.jpg",
       "u": "ZeelPlus_00220.jpg"
@@ -1574,14 +1581,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Amoled,Abstract",
+      "c": "Amoled,Abstract,Featured",
       "n": "Cubical",
       "t": "ZeelPlus_00217.jpg",
       "u": "ZeelPlus_00217.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Amoled",
+      "c": "Amoled,Featured",
       "n": "Headphones",
       "t": "ZeelPlus_00218.jpg",
       "u": "ZeelPlus_00218.jpg"
@@ -1623,21 +1630,21 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Wildlife",
+      "c": "Wildlife,Featured",
       "n": "Cat house",
       "t": "ZeelPlus_00212.jpg",
       "u": "ZeelPlus_00212.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "lone house",
       "t": "ZeelPlus_00211.jpg",
       "u": "ZeelPlus_00211.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Pattern",
+      "c": "Pattern,Featured",
       "n": "Lines",
       "t": "ZeelPlus_00208.jpg",
       "u": "ZeelPlus_00208.jpg"
@@ -1665,7 +1672,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Trees 1",
       "t": "ZeelPlus_00206.jpg",
       "u": "ZeelPlus_00206.jpg"
@@ -1700,14 +1707,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Food",
+      "c": "Food,Featured",
       "n": "Food companion 1",
       "t": "ZeelPlus_00199.jpg",
       "u": "ZeelPlus_00199.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Food",
+      "c": "Food,Featured",
       "n": "Food companion 2",
       "t": "ZeelPlus_00200.jpg",
       "u": "ZeelPlus_00200.jpg"
@@ -1721,7 +1728,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Wildlife",
+      "c": "Wildlife,Featured",
       "n": "Puppy 1",
       "t": "ZeelPlus_00196.jpg",
       "u": "ZeelPlus_00196.jpg"
@@ -1742,7 +1749,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Illustration",
+      "c": "Illustration,Featured",
       "n": "Musical Night 1",
       "t": "ZeelPlus_00193.jpg",
       "u": "ZeelPlus_00193.jpg"
@@ -1763,7 +1770,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Pattern,Amoled",
+      "c": "Pattern,Amoled,Featured",
       "n": "Memphis background 1",
       "t": "ZeelPlus_00190.jpg",
       "u": "ZeelPlus_00190.jpg"
@@ -1784,7 +1791,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Wildlife",
+      "c": "Wildlife,Featured",
       "n": "Collage 1",
       "t": "ZeelPlus_00187.jpg",
       "u": "ZeelPlus_00187.jpg"
@@ -1826,14 +1833,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Featured",
       "n": "sitting with nature 1",
       "t": "ZeelPlus_00178.jpg",
       "u": "ZeelPlus_00178.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Featured",
       "n": "sitting with nature 2",
       "t": "ZeelPlus_00179.jpg",
       "u": "ZeelPlus_00179.jpg"
@@ -1868,7 +1875,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Pattern",
+      "c": "Pattern,Featured",
       "n": "Watercolor Leafs 1",
       "t": "ZeelPlus_00166.jpg",
       "u": "ZeelPlus_00166.jpg"
@@ -1903,7 +1910,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "kawaii",
+      "c": "kawaii,Featured",
       "n": "stickers 3",
       "t": "ZeelPlus_00174.jpg",
       "u": "ZeelPlus_00174.jpg"
@@ -1959,7 +1966,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Rolling hill grass 2",
       "t": "ZeelPlus_00161.jpg",
       "u": "ZeelPlus_00161.jpg"
@@ -1973,7 +1980,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Blue Night 1",
       "t": "ZeelPlus_00158.jpg",
       "u": "ZeelPlus_00158.jpg"
@@ -2015,7 +2022,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
+      "c": "Photoscapes,Featured",
       "n": "Partying 1",
       "t": "ZeelPlus_00151.jpg",
       "u": "ZeelPlus_00151.jpg"
@@ -2162,7 +2169,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Featured",
       "n": "diving in thoughts",
       "t": "ZeelPlus_00130.jpg",
       "u": "ZeelPlus_00130.jpg"
@@ -2197,7 +2204,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "lone house 3",
       "t": "ZeelPlus_00129.jpg",
       "u": "ZeelPlus_00129.jpg"
@@ -2267,7 +2274,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Pattern",
+      "c": "Pattern,Featured",
       "n": "Tropical cat 1",
       "t": "ZeelPlus_00115.jpg",
       "u": "ZeelPlus_00115.jpg"
@@ -2351,7 +2358,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Illustration",
+      "c": "Illustration,Featured",
       "n": "Blue Night",
       "t": "ZeelPlus_00105.jpg",
       "u": "ZeelPlus_00105.jpg"
@@ -2372,7 +2379,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Featured",
       "n": "Confident Girl",
       "t": "ZeelPlus_00102.jpg",
       "u": "ZeelPlus_00102.jpg"
@@ -2386,14 +2393,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Featured",
       "n": "Confident Guy",
       "t": "ZeelPlus_00100.jpg",
       "u": "ZeelPlus_00100.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Refreshing green house",
       "t": "ZeelPlus_0097.jpg",
       "u": "ZeelPlus_0097.jpg"
@@ -2435,14 +2442,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Illustration",
+      "c": "Illustration,Featured",
       "n": "Calm Library",
       "t": "ZeelPlus_0093.jpg",
       "u": "ZeelPlus_0093.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Illustration",
+      "c": "Illustration,Featured",
       "n": "Sunset with doggo 1",
       "t": "ZeelPlus_0092.jpg",
       "u": "ZeelPlus_0092.jpg"
@@ -2464,7 +2471,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Illustration",
+      "c": "Illustration,Featured",
       "n": "Sea girl",
       "t": "ZeelPlus_0089.jpg",
       "u": "ZeelPlus_0089.jpg"
@@ -2528,7 +2535,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Illustration",
+      "c": "Illustration,Featured",
       "n": "House of Dragon",
       "t": "ZeelPlus_0081.jpg",
       "u": "ZeelPlus_0081.jpg"
@@ -2544,7 +2551,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Illustration",
+      "c": "Illustration,Featured",
       "n": "Detective on Street",
       "t": "ZeelPlus_0079.jpg",
       "u": "ZeelPlus_0079.jpg"
@@ -2568,7 +2575,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Sakura trees 3",
       "t": "ZeelPlus_0076.jpg",
       "u": "ZeelPlus_0076.jpg"
@@ -2624,7 +2631,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Illustration",
+      "c": "Illustration,Featured",
       "n": "Cat",
       "t": "ZeelPlus_0029.jpg",
       "u": "ZeelPlus_0029.jpg"
@@ -2672,7 +2679,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Typography",
+      "c": "Typography,Featured",
       "n": "Good Vibes 3",
       "t": "ZeelPlus_0066.jpg",
       "u": "ZeelPlus_0066.jpg"
@@ -2831,7 +2838,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Illustration",
+      "c": "Illustration,Featured",
       "n": "Coffee",
       "t": "ZeelPlus_0046.jpg",
       "u": "ZeelPlus_0046.jpg"
@@ -2879,7 +2886,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Glitch",
+      "c": "Glitch,Featured",
       "n": "Anxiety 1",
       "t": "ZeelPlus_0040.jpg",
       "u": "ZeelPlus_0040.jpg"
@@ -2895,7 +2902,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Gaming",
+      "c": "Gaming,Featured",
       "n": "City",
       "t": "ZeelPlus_0038.jpg",
       "u": "ZeelPlus_0038.jpg"
