@@ -7,7 +7,7 @@
     "folder": "alike",
     "pro": true,
     "preview": ["sa4.jpg","sa3.jpg","sa5.jpg","sa9.jpg","sa6.jpg","sa7.jpg","sa2.jpg","sa1.jpg"],
-    "desc": "The essence of brand-new phones. both familiar & refreshingly unique."
+    "desc": "Walls that capture the essence n vibes of brand-new phone. designs that feel both familiar and refreshingly unique."
   },{
     "label": "Kawaii Cutesy",
     "iap_id": "Kawaii cutesy",
@@ -15,8 +15,8 @@
     "url": "KawaiiCutesy.json",
     "folder": "KawaiiCutesy",
     "pro": true,
-    "preview": ["kw4.jpg","kw1.jpg","kw2.jpg","kw7.jpg","kw3.jpg","kw6.jpg","kw5.jpg"],
-    "desc": "Aesthetic outlines surrounded by nature elements. beautiful,vibrant,perfect for lockscreens"
+    "preview": ["kw1.jpg","kw4.jpg","kw7.jpg","kw2.jpg","kw3.jpg","kw6.jpg","kw5.jpg"],
+    "desc": "Aesthetic outlined artworks surrounded by nature elements, it's beautiful, vibrant and perfect for lockscreens"
   },
   {
     "label": "Brushed Reality",
@@ -26,7 +26,7 @@
     "folder": "brushedReality",
     "pro": true,
     "preview": ["brw13.jpg","brw11.jpg","brw12.jpg","brw8.jpg","brw1.jpg","brw2.jpg","brw3.jpg","brw4.jpg","brw5.jpg","brw6.jpg","brw7.jpg","brw8.jpg","brw9.jpg"],
-    "desc": "Inspired by Pixel's Curated Culture collection, Vibrant Collection which takes you to whole new imaginative world"
+    "desc": "Stunning brushed artworks inspired by Google pixel's Curated Culture collection, Vibrant Collection which takes you to whole new imaginative world"
   },
   {
     "label": "Totoro Figurines",
