@@ -5,6 +5,27 @@
     {
       "a": "YoG",
       "d": "1720x3728",
+      "c": "Face",
+      "n": "Radiant Silhouette 1",
+      "t": "ZeelPlus_00514.jpg",
+      "u": "ZeelPlus_00514.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Face",
+      "n": "Radiant Silhouette 2",
+      "t": "ZeelPlus_00515.jpg",
+      "u": "ZeelPlus_00515.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Face",
+      "n": "Radiant Silhouette 3",
+      "t": "ZeelPlus_00516.jpg",
+      "u": "ZeelPlus_00516.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
       "c": "Artscapes",
       "n": "Winter's Train Ride 1",
       "t": "ZeelPlus_00511.jpg",
@@ -19,14 +40,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Winter's Train Ride 3",
       "t": "ZeelPlus_00513.jpg",
       "u": "ZeelPlus_00513.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Abstract",
+      "c": "Abstract,Featured",
       "n": "Doodles 1",
       "t": "ZeelPlus_00508.jpg",
       "u": "ZeelPlus_00508.jpg"
@@ -89,7 +110,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Wildlife",
+      "c": "Wildlife,Featured",
       "n": "Fox on a Mission 1",
       "t": "ZeelPlus_00499.jpg",
       "u": "ZeelPlus_00499.jpg"
@@ -215,7 +236,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Featured",
       "n": "Origami Face 1",
       "t": "ZeelPlus_00481.jpg",
       "u": "ZeelPlus_00481.jpg"
@@ -236,14 +257,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Superheroes",
+      "c": "Superheroes,Featured",
       "n": "Spider Man 1",
       "t": "ZeelPlus_00478.jpg",
       "u": "ZeelPlus_00478.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Superheroes",
+      "c": "Superheroes,Featured",
       "n": "Spider Man 2",
       "t": "ZeelPlus_00479.jpg",
       "u": "ZeelPlus_00479.jpg"
@@ -271,7 +292,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Abstract",
+      "c": "Abstract,Featured",
       "n": "Early Morning Forest 3",
       "t": "ZeelPlus_00477.jpg",
       "u": "ZeelPlus_00477.jpg"
@@ -286,20 +307,20 @@
       "a": "YoG",
       "d": "1720x3728",
       "c": "Abstract",
-      "n": "Sand Texture 3",
+      "n": "Sand Texture 2",
       "t": "ZeelPlus_00473.jpg",
       "u": "ZeelPlus_00473.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Abstract",
-      "n": "Sand Texture 4",
+      "c": "Abstract,Featured",
+      "n": "Sand Texture 3",
       "t": "ZeelPlus_00474.jpg",
       "u": "ZeelPlus_00474.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Flying on paper plane 1",
       "t": "ZeelPlus_00469.jpg",
       "u": "ZeelPlus_00469.jpg"
@@ -327,7 +348,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Clouds",
+      "c": "Clouds,Featured",
       "n": "Love Clouds 2",
       "t": "ZeelPlus_00467.jpg",
       "u": "ZeelPlus_00467.jpg"
@@ -348,7 +369,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
+      "c": "Photoscapes,Featured",
       "n": "Palm tree close up 2",
       "t": "ZeelPlus_00461.jpg",
       "u": "ZeelPlus_00461.jpg"
@@ -391,7 +412,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
+      "c": "Photoscapes,Featured",
       "n": "forest path 2",
       "t": "ZeelPlus_00455.jpg",
       "u": "ZeelPlus_00455.jpg"
@@ -412,7 +433,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Wildlife",
+      "c": "Wildlife,Featured",
       "n": "Hyacinth Macaw",
       "t": "ZeelPlus_00452.jpg",
       "u": "ZeelPlus_00452.jpg"

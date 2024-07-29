@@ -2,7 +2,28 @@
   {
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Photoscapes",
+    "c": "Faces",
+    "n": "Anime Guy 1",
+    "t": "zeel_00662.jpg",
+    "u": "zeel_00662.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
+    "c": "Faces",
+    "n": "Anime Guy 2",
+    "t": "zeel_00663.jpg",
+    "u": "zeel_00663.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
+    "c": "Faces",
+    "n": "Anime Guy 3",
+    "t": "zeel_00664.jpg",
+    "u": "zeel_00664.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
+    "c": "Photoscapes,Featured",
     "n": "Tropical Blur 1",
     "t": "zeel_00659.jpg",
     "u": "zeel_00659.jpg"
@@ -79,7 +100,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Wildlife",
+    "c": "Wildlife,Featured",
     "n": "Detective Fox",
     "t": "zeel_00652.jpg",
     "u": "zeel_00652.jpg"
@@ -107,7 +128,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Artscapes",
+    "c": "Artscapes,Featured",
     "n": "Retro City 1",
     "t": "zeel_00644.jpg",
     "u": "zeel_00644.jpg"
@@ -128,14 +149,14 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Photoscapes",
+    "c": "Photoscapes,Featured",
     "n": "Colorful Sky 1",
     "t": "zeel_00638.jpg",
     "u": "zeel_00638.jpg"
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Photoscapes",
+    "c": "Photoscapes,Featured",
     "n": "Colorful Sky 2",
     "t": "zeel_00639.jpg",
     "u": "zeel_00639.jpg"
@@ -163,7 +184,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Photoscapes",
+    "c": "Photoscape,Featured",
     "n": "View from above 3",
     "t": "zeel_00634.jpg",
     "u": "zeel_00634.jpg"
@@ -254,7 +275,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Architecture",
+    "c": "Architecture,Featured",
     "n": "Wooden Ceiling 1",
     "t": "zeel_00617.jpg",
     "u": "zeel_00617.jpg"
@@ -282,7 +303,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Photoscapes",
+    "c": "Photoscapes,Featured",
     "n": "Tropical leaves 2",
     "t": "zeel_00615.jpg",
     "u": "zeel_00615.jpg"
@@ -296,7 +317,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Wildlife",
+    "c": "Wildlife,Featured",
     "n": "Flamingo 1",
     "t": "zeel_00611.jpg",
     "u": "zeel_00611.jpg"
@@ -317,7 +338,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Artscapes",
+    "c": "Artscapes,Featured",
     "n": "Calming tree 1",
     "t": "zeel_00608.jpg",
     "u": "zeel_00608.jpg"
