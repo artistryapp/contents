@@ -2,6 +2,27 @@
   {
     "a": "YoG",
     "d": "1720 x 3728",
+    "c": "Faces",
+    "n": "Geeky Girl 1",
+    "t": "zeel_00704.jpg",
+    "u": "zeel_00704.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
+    "c": "Faces",
+    "n": "Geeky Girl 2",
+    "t": "zeel_00705.jpg",
+    "u": "zeel_00705.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
+    "c": "Faces",
+    "n": "Geeky Girl 3",
+    "t": "zeel_00706.jpg",
+    "u": "zeel_00706.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
     "c": "Wildlife",
     "n": "Sword Billed Hummingbird",
     "t": "zeel_00732.jpg",
@@ -23,7 +44,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Photoscapes",
+    "c": "Photoscapes,Featured",
     "n": "Stonehenge 1",
     "t": "zeel_00710.jpg",
     "u": "zeel_00710.jpg"
@@ -44,7 +65,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Artscapes",
+    "c": "Artscapes,Featured",
     "n": "Aesthetic Nature 1",
     "t": "zeel_00719.jpg",
     "u": "zeel_00719.jpg"
@@ -163,7 +184,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Photoscapes",
+    "c": "Photoscapes,Featured",
     "n": "out of nowhere tree 3",
     "t": "zeel_00697.jpg",
     "u": "zeel_00697.jpg"
@@ -191,7 +212,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Artscapes",
+    "c": "Artscapes,Featured",
     "n": " Santorini Greece 1",
     "t": "zeel_00692.jpg",
     "u": "zeel_00692.jpg"
