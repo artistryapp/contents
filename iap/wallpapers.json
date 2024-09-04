@@ -2,6 +2,27 @@
   {
     "a": "YoG",
     "d": "1720 x 3728",
+    "c": "Pixels",
+    "n": "Pixels Scenery 1",
+    "t": "zeel_00759.jpg",
+    "u": "zeel_00759.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
+    "c": "Pixels",
+    "n": "Pixels Scenery 2",
+    "t": "zeel_00760.jpg",
+    "u": "zeel_00760.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
+    "c": "Pixels",
+    "n": "Pixels Scenery 3",
+    "t": "zeel_00761.jpg",
+    "u": "zeel_00761.jpg"
+  },{
+    "a": "YoG",
+    "d": "1720 x 3728",
     "c": "Artscapes",
     "n": "Boxie 1",
     "t": "zeel_00756.jpg",
@@ -58,7 +79,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Food",
+    "c": "Food,Featured",
     "n": "Coffee beans",
     "t": "zeel_00749.jpg",
     "u": "zeel_00749.jpg"
@@ -149,7 +170,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Amoled",
+    "c": "Amoled,Featured",
     "n": "Abstract 1",
     "t": "zeel_00729.jpg",
     "u": "zeel_00729.jpg"
@@ -198,7 +219,7 @@
   },{
     "a": "YoG",
     "d": "1720 x 3728",
-    "c": "Artscapes",
+    "c": "Artscapes,Featured",
     "n": "Starry Night van gogh",
     "t": "zeel_00717.jpg",
     "u": "zeel_00717.jpg"

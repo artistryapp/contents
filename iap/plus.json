@@ -5,7 +5,28 @@
     {
       "a": "YoG",
       "d": "1720x3728",
+      "c": "Artscapes,Featured",
+      "n": "Iridesent shoe 1",
+      "t": "ZeelPlus_00622.jpg",
+      "u": "ZeelPlus_00622.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
       "c": "Artscapes",
+      "n": "Iridesent shoe 2",
+      "t": "ZeelPlus_00623.jpg",
+      "u": "ZeelPlus_00623.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Artscapes",
+      "n": "Iridesent shoe 3",
+      "t": "ZeelPlus_00624.jpg",
+      "u": "ZeelPlus_00624.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Artscapes,Featured",
       "n": "Peak a boo 1",
       "t": "ZeelPlus_00604.jpg",
       "u": "ZeelPlus_00604.jpg"
@@ -26,7 +47,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Featured",
       "n": "Burning Man 1",
       "t": "ZeelPlus_00601.jpg",
       "u": "ZeelPlus_00601.jpg"
@@ -68,7 +89,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Waking up in heaven 1",
       "t": "ZeelPlus_00595.jpg",
       "u": "ZeelPlus_00595.jpg"
@@ -89,7 +110,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Featured",
       "n": "Samurai 1",
       "t": "ZeelPlus_00310.jpg",
       "u": "ZeelPlus_00310.jpg"
@@ -110,7 +131,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
+      "c": "Photoscapes,Featured",
       "n": "Lake 1",
       "t": "ZeelPlus_00592.jpg",
       "u": "ZeelPlus_00592.jpg"
@@ -145,7 +166,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Pink Night 3",
       "t": "ZeelPlus_00588.jpg",
       "u": "ZeelPlus_00588.jpg"
@@ -180,14 +201,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Superheroes",
+      "c": "Superheroes,Featured",
       "n": "Superman 2",
       "t": "ZeelPlus_00581.jpg",
       "u": "ZeelPlus_00581.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Superheroes",
+      "c": "Superheroes,Featured",
       "n": "Superman 3",
       "t": "ZeelPlus_00582.jpg",
       "u": "ZeelPlus_00582.jpg"
@@ -278,7 +299,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
+      "c": "Photoscapes,Featured",
       "n": "Shuttered reflection",
       "t": "ZeelPlus_00571.jpg",
       "u": "ZeelPlus_00571.jpg"
