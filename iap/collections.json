@@ -49,7 +49,7 @@
     },
     {
       "label": "iridescent blush",
-      "iap_id": "iridescen_blush",
+      "iap_id": "iridescent_blush",
       "iap_collections": ["iridescent_blush"],
       "url": "IridescentBlush.json",
       "folder": "IridescentBlush",
