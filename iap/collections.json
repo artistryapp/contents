@@ -49,8 +49,8 @@
     },
     {
       "label": "Iridescent Blush",
-      "iap_id": "iridescent blush",
-      "iap_collections": ["iridescent blush"],
+      "iap_id": "Iridescent Blush",
+      "iap_collections": ["Iridescent Blush"],
       "url": "IridescentBlush.json",
       "folder": "IridescentBlush",
       "pro": true,
