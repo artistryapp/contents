@@ -48,9 +48,9 @@
       "desc": "Unique collectible figures inspired by popular characters from movies, TV shows, and video games, all recreated in Funko Pop! vinyl figure style. With a mix of iconic heroes, villains, and sidekicks, you're sure to find a wallpaper that suits your style."
     },
     {
-      "label": "iridescent blush",
-      "iap_id": "iridescent_blush",
-      "iap_collections": ["iridescent_blush"],
+      "label": "Iridescent Blush",
+      "iap_id": "iridescent blush",
+      "iap_collections": ["iridescent blush"],
       "url": "IridescentBlush.json",
       "folder": "IridescentBlush",
       "pro": true,
