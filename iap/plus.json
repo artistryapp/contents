@@ -5,6 +5,27 @@
     {
       "a": "YoG",
       "d": "1720x3728",
+      "c": "Artscapes,Featured",
+      "n": "Peek a boo",
+      "t": "ZeelPlus_00649.jpg",
+      "u": "ZeelPlus_00649.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Artscapes",
+      "n": "Sleeping in coffee",
+      "t": "ZeelPlus_00648.jpg",
+      "u": "ZeelPlus_00648.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Artscapes",
+      "n": "Peeking through coffee",
+      "t": "ZeelPlus_00647.jpg",
+      "u": "ZeelPlus_00647.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
       "c": "Abstract",
       "n": "Crystal Cube Keychain 1",
       "t": "ZeelPlus_00644.jpg",
@@ -26,7 +47,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Abstract",
+      "c": "Abstract,Featured",
       "n": "Abstract 1",
       "t": "ZeelPlus_00641.jpg",
       "u": "ZeelPlus_00641.jpg"
@@ -54,7 +75,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Featured",
       "n": "Cool Skull drinking 2",
       "t": "ZeelPlus_00639.jpg",
       "u": "ZeelPlus_00639.jpg"
@@ -68,7 +89,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Somewhere only we know 1",
       "t": "ZeelPlus_00635.jpg",
       "u": "ZeelPlus_00635.jpg"
@@ -89,7 +110,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Anime",
+      "c": "Anime,Featured",
       "n": "Anime girl 1",
       "t": "ZeelPlus_00628.jpg",
       "u": "ZeelPlus_00628.jpg"
@@ -103,7 +124,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Anime",
+      "c": "Anime,Featured",
       "n": "Anime girl 3",
       "t": "ZeelPlus_00630.jpg",
       "u": "ZeelPlus_00630.jpg"
@@ -159,7 +180,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Red Street 1",
       "t": "ZeelPlus_00613.jpg",
       "u": "ZeelPlus_00613.jpg"
