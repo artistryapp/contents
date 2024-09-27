@@ -110,7 +110,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
+      "c": "Photoscapes,Depth",
       "n": "Mountain Sunset 1",
       "t": "ZeelPlus_00662.jpg",
       "u": "ZeelPlus_00662.jpg"
@@ -271,7 +271,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Abstract",
+      "c": "Abstract,Depth",
       "n": "Crystal Cube Keychain 3",
       "t": "ZeelPlus_00646.jpg",
       "u": "ZeelPlus_00646.jpg"
@@ -432,7 +432,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Architecture",
+      "c": "Architecture,Depth",
       "n": "Parked on top",
       "t": "ZeelPlus_00610.jpg",
       "u": "ZeelPlus_00610.jpg"
@@ -544,7 +544,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Depth",
       "n": "Waking up in heaven 2",
       "t": "ZeelPlus_00596.jpg",
       "u": "ZeelPlus_00596.jpg"
@@ -621,7 +621,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Superheroes",
+      "c": "Superheroes,Depth",
       "n": "ShadowHunters 1",
       "t": "ZeelPlus_00583.jpg",
       "u": "ZeelPlus_00583.jpg"
@@ -698,7 +698,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Depth",
       "n": "Ghost 3",
       "t": "ZeelPlus_00570.jpg",
       "u": "ZeelPlus_00570.jpg"
@@ -747,21 +747,21 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes,Featured",
+      "c": "Photoscapes,Featured,Depth",
       "n": "Shuttered reflection",
       "t": "ZeelPlus_00571.jpg",
       "u": "ZeelPlus_00571.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
+      "c": "Photoscapes,Depth",
       "n": "Lake View",
       "t": "ZeelPlus_00572.jpg",
       "u": "ZeelPlus_00572.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
+      "c": "Photoscapes,Depth",
       "n": "colosseum",
       "t": "ZeelPlus_00573.jpg",
       "u": "ZeelPlus_00573.jpg"
@@ -831,7 +831,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
+      "c": "Photoscapes,Depth",
       "n": "Mount Fuji",
       "t": "ZeelPlus_00553.jpg",
       "u": "ZeelPlus_00553.jpg"
@@ -859,14 +859,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Depth",
       "n": "Standing on the edge 2",
       "t": "ZeelPlus_00551.jpg",
       "u": "ZeelPlus_00551.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Depth",
       "n": "Standing on the edge 3",
       "t": "ZeelPlus_00552.jpg",
       "u": "ZeelPlus_00552.jpg"
@@ -894,14 +894,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Depth",
       "n": "French Riviera Sunset 1",
       "t": "ZeelPlus_00544.jpg",
       "u": "ZeelPlus_00544.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Depth",
       "n": "French Riviera Sunset 2",
       "t": "ZeelPlus_00545.jpg",
       "u": "ZeelPlus_00545.jpg"
@@ -1335,7 +1335,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces,Featured",
+      "c": "Faces,Featured,Depth",
       "n": "Origami Face 1",
       "t": "ZeelPlus_00481.jpg",
       "u": "ZeelPlus_00481.jpg"
@@ -1546,14 +1546,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Vehicles,Featured",
+      "c": "Vehicles,Featured,Depth",
       "n": "Road Trip 1",
       "t": "ZeelPlus_00448.jpg",
       "u": "ZeelPlus_00448.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Vehicles",
+      "c": "Vehicles,Depth,Depth",
       "n": "Road Trip 2",
       "t": "ZeelPlus_00449.jpg",
       "u": "ZeelPlus_00449.jpg"
@@ -1574,7 +1574,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "3D Renders,Featured",
+      "c": "3D Renders,Featured,Depth",
       "n": "RimLit Waves 2",
       "t": "ZeelPlus_00446.jpg",
       "u": "ZeelPlus_00446.jpg"
@@ -1707,7 +1707,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Pixels",
+      "c": "Pixels,Depth",
       "n": "Scenery 1",
       "t": "ZeelPlus_00429.jpg",
       "u": "ZeelPlus_00429.jpg"
@@ -1742,7 +1742,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "3D Renders",
+      "c": "3D Renders,Depth",
       "n": "Pod 2",
       "t": "ZeelPlus_00422.jpg",
       "u": "ZeelPlus_00422.jpg"
@@ -2008,7 +2008,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Robots",
+      "c": "Robots,Depth",
       "n": "Robo Head 1",
       "t": "ZeelPlus_00382.jpg",
       "u": "ZeelPlus_00382.jpg"
@@ -2057,7 +2057,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Depth",
       "n": "Sea View 2",
       "t": "ZeelPlus_00377.jpg",
       "u": "ZeelPlus_00377.jpg"
@@ -2135,7 +2135,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Architecture",
+      "c": "Architecture,Depth",
       "n": "Flat perspective 1",
       "t": "ZeelPlus_00364.jpg",
       "u": "ZeelPlus_00364.jpg"
@@ -2289,7 +2289,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Wildlife,Featured",
+      "c": "Wildlife,Featured,Depth",
       "n": "Badass Gorrila 2",
       "t": "ZeelPlus_00344.jpg",
       "u": "ZeelPlus_00344.jpg"
@@ -2321,6 +2321,27 @@
       "n": "Cloudy White Cat",
       "t": "ZeelPlus_00339.jpg",
       "u": "ZeelPlus_00339.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "3D Renders,Depth",
+      "n": "Panda 1",
+      "t": "ZeelPlus_00590.jpg",
+      "u": "ZeelPlus_00590.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "3D Renders,Depth",
+      "n": "Panda 2",
+      "t": "ZeelPlus_00589.jpg",
+      "u": "ZeelPlus_00589.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "3D Renders,Depth",
+      "n": "Panda 3",
+      "t": "ZeelPlus_00591.jpg",
+      "u": "ZeelPlus_00591.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
@@ -2723,7 +2744,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Depth",
       "n": "Freedom 1",
       "t": "ZeelPlus_00277.jpg",
       "u": "ZeelPlus_00277.jpg"
@@ -2933,7 +2954,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
+      "c": "Photoscapes,Depth",
       "n": "Night Sky 1",
       "t": "ZeelPlus_00244.jpg",
       "u": "ZeelPlus_00244.jpg"
@@ -3479,7 +3500,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Photoscapes",
+      "c": "Photoscapes,Depth",
       "n": "Mountain view 1",
       "t": "ZeelPlus_00163.jpg",
       "u": "ZeelPlus_00163.jpg"
@@ -3514,7 +3535,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Depth",
       "n": "Rolling hill grass 3",
       "t": "ZeelPlus_00162.jpg",
       "u": "ZeelPlus_00162.jpg"
@@ -3661,7 +3682,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Depth",
       "n": "Farmer 3",
       "t": "ZeelPlus_00141.jpg",
       "u": "ZeelPlus_00141.jpg"
@@ -3738,14 +3759,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Depth",
       "n": "lone house 2",
       "t": "ZeelPlus_00128.jpg",
       "u": "ZeelPlus_00128.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes,Featured",
+      "c": "Artscapes,Featured,Depth",
       "n": "lone house 3",
       "t": "ZeelPlus_00129.jpg",
       "u": "ZeelPlus_00129.jpg"
@@ -3773,14 +3794,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Depth",
       "n": "Fancy House 1",
       "t": "ZeelPlus_00121.jpg",
       "u": "ZeelPlus_00121.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Depth",
       "n": "Fancy House 2",
       "t": "ZeelPlus_00122.jpg",
       "u": "ZeelPlus_00122.jpg"
@@ -4308,7 +4329,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Depth",
       "n": "Countryside 1",
       "t": "ZeelPlus_0055.jpg",
       "u": "ZeelPlus_0055.jpg"
@@ -4339,7 +4360,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Pixels",
+      "c": "Pixels,Depth",
       "n": "pixels 3",
       "t": "ZeelPlus_0051.jpg",
       "u": "ZeelPlus_0051.jpg"
@@ -4363,7 +4384,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Illustration",
+      "c": "Illustration,Depth",
       "n": "Camera",
       "t": "ZeelPlus_0048.jpg",
       "u": "ZeelPlus_0048.jpg"
@@ -4411,7 +4432,7 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Glitch",
+      "c": "Glitch,Depth",
       "n": "Anxiety 3",
       "t": "ZeelPlus_0042.jpg",
       "u": "ZeelPlus_0042.jpg"
