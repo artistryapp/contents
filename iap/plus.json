@@ -5,6 +5,27 @@
     {
       "a": "YoG",
       "d": "1720x3728",
+      "c": "Faces",
+      "n": "Hooded Man 1",
+      "t": "ZeelPlus_00689.jpg",
+      "u": "ZeelPlus_00689.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Faces",
+      "n": "Hooded Man 2",
+      "t": "ZeelPlus_00690.jpg",
+      "u": "ZeelPlus_00690.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Faces,Depth",
+      "n": "Hooded Man 3",
+      "t": "ZeelPlus_00691.jpg",
+      "u": "ZeelPlus_00691.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
       "c": "Abstract",
       "n": "Dark Gradient 1",
       "t": "ZeelPlus_00671.jpg",
@@ -194,21 +215,21 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Face",
+      "c": "faces",
       "n": "Snoopy",
       "t": "ZeelPlus_00656.jpg",
       "u": "ZeelPlus_00656.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Face",
+      "c": "faces",
       "n": "Hello Kitty",
       "t": "ZeelPlus_00657.jpg",
       "u": "ZeelPlus_00657.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Face",
+      "c": "faces",
       "n": "Pikachu",
       "t": "ZeelPlus_00658.jpg",
       "u": "ZeelPlus_00658.jpg"
@@ -937,21 +958,21 @@
       "a": "YoG",
       "d": "1720x3728",
       "c": "Faces",
-      "n": "Abstract face 1",
+      "n": "Abstract faces 1",
       "t": "ZeelPlus_00538.jpg",
       "u": "ZeelPlus_00538.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
       "c": "Faces",
-      "n": "Abstract face 2",
+      "n": "Abstract faces 2",
       "t": "ZeelPlus_00539.jpg",
       "u": "ZeelPlus_00539.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
       "c": "Faces",
-      "n": "Abstract face 3",
+      "n": "Abstract faces 3",
       "t": "ZeelPlus_00540.jpg",
       "u": "ZeelPlus_00540.jpg"
     },{
@@ -1139,7 +1160,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Face,Featured",
+      "c": "faces,Featured",
       "n": "Radiant Silhouette 3",
       "t": "ZeelPlus_00516.jpg",
       "u": "ZeelPlus_00516.jpg"
@@ -1357,21 +1378,21 @@
       "a": "YoG",
       "d": "1720x3728",
       "c": "Faces,Featured,Depth",
-      "n": "Origami Face 1",
+      "n": "Origami faces 1",
       "t": "ZeelPlus_00481.jpg",
       "u": "ZeelPlus_00481.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
       "c": "Faces",
-      "n": "Origami Face 2",
+      "n": "Origami faces 2",
       "t": "ZeelPlus_00482.jpg",
       "u": "ZeelPlus_00482.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
       "c": "Faces",
-      "n": "Origami Face 3",
+      "n": "Origami faces 3",
       "t": "ZeelPlus_00483.jpg",
       "u": "ZeelPlus_00483.jpg"
     },{
