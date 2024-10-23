@@ -5,7 +5,35 @@
     {
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Artscapes",
+      "n": "Painted Nature 1",
+      "t": "ZeelPlus_00747.jpg",
+      "u": "ZeelPlus_00747.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Artscapes,Featured",
+      "n": "Painted Nature 2",
+      "t": "ZeelPlus_00748.jpg",
+      "u": "ZeelPlus_00748.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Artscapes",
+      "n": "Painted Nature 3",
+      "t": "ZeelPlus_00749.jpg",
+      "u": "ZeelPlus_00749.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Artscapes",
+      "n": "Find your ikigai",
+      "t": "ZeelPlus_00750.jpg",
+      "u": "ZeelPlus_00750.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Faces,Featured",
       "n": "Cool Glasses 1",
       "t": "ZeelPlus_00754.jpg",
       "u": "ZeelPlus_00754.jpg"
@@ -26,7 +54,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Pixels",
+      "c": "Pixels,Featured",
       "n": "Sporty pixels 1",
       "t": "ZeelPlus_00751.jpg",
       "u": "ZeelPlus_00751.jpg"
@@ -103,14 +131,14 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Vehicles",
+      "c": "Vehicles,Featured",
       "n": "Car Ride 3",
       "t": "ZeelPlus_00737.jpg",
       "u": "ZeelPlus_00737.jpg"
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Anime",
+      "c": "Anime,Featured",
       "n": "Abstract Cyberpunk 1",
       "t": "ZeelPlus_00732.jpg",
       "u": "ZeelPlus_00732.jpg"
@@ -166,7 +194,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Vehicles",
+      "c": "Vehicles,Featured",
       "n": "Car Ride 2",
       "t": "ZeelPlus_00726.jpg",
       "u": "ZeelPlus_00726.jpg"
@@ -180,7 +208,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Dull Art 1",
       "t": "ZeelPlus_00719.jpg",
       "u": "ZeelPlus_00719.jpg"
@@ -285,7 +313,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Artscapes",
+      "c": "Artscapes,Featured",
       "n": "Exploring Cave 1",
       "t": "ZeelPlus_00704.jpg",
       "u": "ZeelPlus_00704.jpg"
@@ -327,7 +355,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Featured",
       "n": "Barely Standing 1",
       "t": "ZeelPlus_00694.jpg",
       "u": "ZeelPlus_00694.jpg"
@@ -355,7 +383,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Faces",
+      "c": "Faces,Featured",
       "n": "Hooded Man 1",
       "t": "ZeelPlus_00689.jpg",
       "u": "ZeelPlus_00689.jpg"
@@ -404,7 +432,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "3D Renders",
+      "c": "3D Renders,Featured",
       "n": "Adorable Toy 1",
       "t": "ZeelPlus_00686.jpg",
       "u": "ZeelPlus_00686.jpg"
@@ -439,7 +467,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Space",
+      "c": "Space,Featured",
       "n": "Sand Astronaut 3",
       "t": "ZeelPlus_00685.jpg",
       "u": "ZeelPlus_00685.jpg"
