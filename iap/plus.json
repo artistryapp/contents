@@ -5,6 +5,27 @@
     {
       "a": "YoG",
       "d": "1720x3728",
+      "c": "Faces",
+      "n": "Silhoutte 1",
+      "t": "ZeelPlus_00821.jpg",
+      "u": "ZeelPlus_00821.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Faces",
+      "n": "Silhoutte 2",
+      "t": "ZeelPlus_00822.jpg",
+      "u": "ZeelPlus_00822.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
+      "c": "Faces",
+      "n": "Silhoutte 3",
+      "t": "ZeelPlus_00823.jpg",
+      "u": "ZeelPlus_00823.jpg"
+    },{
+      "a": "YoG",
+      "d": "1720x3728",
       "c": "Anime",
       "n": "Tree 1",
       "t": "ZeelPlus_00815.jpg",
@@ -12,7 +33,7 @@
     },{
       "a": "YoG",
       "d": "1720x3728",
-      "c": "Anime",
+      "c": "Anime,Featured,Depth",
       "n": "Tree 2",
       "t": "ZeelPlus_00816.jpg",
       "u": "ZeelPlus_00816.jpg"
