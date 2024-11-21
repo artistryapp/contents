@@ -1,0 +1,100 @@
+[
+  {
+    "label": "Brushed Reality",
+    "iap_id": "brushed_reality",
+    "iap_collections": ["brushed_reality"],
+    "url": "brushedReality.json",
+    "folder": "brushedReality",
+    "pro": true,
+    "preview": ["brw13.jpg","brw9.jpg","brw14.jpg","brw15.jpg","brw12.jpg","brw2.jpg","brw3.jpg","brw4.jpg","brw5.jpg","brw6.jpg","brw7.jpg","brw8.jpg","brw9.jpg"],
+    "desc": "Inspired by Pixel's Curated Culture collection, Vibrant Collection which takes you to whole new imaginative world"
+  },
+  {
+    "label": "Stock Alike",
+    "iap_id": "Stock alike",
+    "iap_collections": ["stock alike"],
+    "url": "alike.json",
+    "folder": "alike",
+    "pro": true,
+    "preview": ["sa4.jpg","sa3.jpg","sa5.jpg","sa9.jpg","sa6.jpg","sa7.jpg","sa2.jpg","sa1.jpg"],
+    "desc": "The essence of brand-new phones. both familiar & refreshingly unique."
+  },{
+    "label": "Kawaii Cutesy",
+    "iap_id": "Kawaii cutesy",
+    "iap_collections": ["kawaii cutesy"],
+    "url": "KawaiiCutesy.json",
+    "folder": "KawaiiCutesy",
+    "pro": true,
+    "preview": ["kw9.jpg","kw4.jpg","kw10.jpg","kw8.jpg","kw3.jpg","kw6.jpg","kw5.jpg"],
+    "desc": "Aesthetic outlines surrounded by nature elements. beautiful,vibrant,perfect for lockscreens"
+  },
+  {
+    "label": "Totoro Figurines",
+    "iap_id": "totoro_figurines",
+    "iap_collections": ["totoro_figurines"],
+    "url": "totoro.json",
+    "folder": "totoro",
+    "pro": true,
+    "preview": ["tp1.jpeg", "tp2.jpeg", "tp3.jpeg", "tp4.jpeg", "tp5.jpeg", "tp6.jpeg", "tp7.jpeg"],
+    "desc": "Whether you're a fan of Studio Ghibli Animes, My neighbor totoro, or just loves Animals, Birds, Cute creatures! this pack has got you covered"
+  },{
+      "label": "Funko PoP",
+      "iap_id": "funko_pop",
+      "iap_collections": ["funko_pop"],
+      "url": "FunkoPOP.json",
+      "folder": "FunkoPOP",
+      "pro": true,
+      "preview": ["fpn8.jpg","fpn9.jpg","fpn10.jpg","fpn11.jpg","fpn12.jpg","fpn1.jpeg", "fpn2.jpeg", "fpn3.jpeg", "fpn4.jpeg", "fpn5.jpeg", "fpn6.jpeg", "fpn7.jpeg"],
+      "desc": "Unique collectible figures inspired by popular characters from movies, TV shows, and video games, all recreated in Funko Pop! vinyl figure style. With a mix of iconic heroes, villains, and sidekicks, you're sure to find a wallpaper that suits your style."
+    },
+    {
+      "label": "Iridescent Blush",
+      "iap_id": "Iridescent Blush",
+      "iap_collections": ["Iridescent Blush"],
+      "url": "IridescentBlush.json",
+      "folder": "IridescentBlush",
+      "pro": true,
+      "preview": ["is_1.jpg","is_6.jpg","is_2.jpg","is_3.jpg","is_4.jpg","is_5.jpg"],
+      "desc": "Unique portrait collections with blend of soft hues with glossy lens blurs and radiant light. Perfect wallpapers for lock screen and home screen setups"
+    },
+    {
+      "label": "Nature's Odyssey",
+      "url": "naturesOdyssey.json",
+      "preview": ["odc1.jpg","odc2.jpg","odc3.jpg","odc4.jpg","odc5.jpg","odc6.jpg","odc7.jpg","odc8.jpg"],
+      "folder": "NaturesOdyssey",
+      "pro": false,
+      "desc": "Whether you prefer calm lakes with cool tones or coastal cliffs with moody grays, there's a wallpaper for every mood and preference."
+    },
+    {
+      "label": "Anime Scenery",
+      "url": "AnimeScenery.json",
+      "preview": ["asn1.jpg","asn2.jpg","asn3.jpg","asn4.jpg","asn5.jpg","asn6.jpg","asn7.jpg"],
+      "folder": "AnimeScenery",
+      "pro": false,
+      "desc": "From Snowy forests to a magical castle, each wallpaper is designed to transport you to a different world"
+    },
+    {
+      "label": "Miniature Cars",
+      "url": "MiniatureCars.json",
+      "preview": ["mc1.jpg","mc2.jpg","mc3.jpg","mc4.jpg","mc5.jpg","mc6.jpg","mc7.jpg","mc8.jpg"],
+      "folder": "MiniatureCars",
+      "pro": false,
+      "desc": "Enjoy the Miniature Cars Collection for free!\nThis collection contains 100+ car models from 1886 to the current era with various shots to capture pure beauty!"
+    },
+    {
+      "label": "Chibi Style Animals",
+      "url": "chibistyle.json",
+      "folder": "ChibiAnimals",
+      "pro": false,
+      "preview": ["chib3.jpg","chib1.jpg","chib2.jpg","chib4.jpg"],
+      "desc": "Chibi Style Animal Wallpapers, one of our first AI wallpaper collections, has been brought back by popular demand for our users to enjoy within the app."
+    },{
+      "label": "Fancy Animals",
+      "iap_collections": ["fancy animal"],
+      "url": "fancyAnimals.json",
+      "folder": "FancyAnimals",
+      "pro": true,
+      "preview": ["fa2.jpg","fa1.jpg","fa3.jpg","fa6.jpg","fa4.jpg","fa7.jpg","fa8.jpg"],
+      "desc": "Fancy Animals wearing wollen sweater, Aborable wallpaper pack, has been brought back by popular demand for our users to enjoy within the app."
+    }
+]
