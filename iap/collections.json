@@ -51,9 +51,9 @@
         "colors": ["#065D78", "#1194AA", "rgba(202, 237, 241, 0)"]
     },{
         "label": "Muted Aesthetics",
-        "iap_id": "muted_aesthetics",
+        "iap_id": "muted aesthetics",
         "iap_collections": [
-            "muted_aesthetics"
+            "muted aesthetics"
         ],
         "url": "mutedAesthetics.json",
         "folder": "MutedAesthetics",
