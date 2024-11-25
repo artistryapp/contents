@@ -29,9 +29,9 @@
     },
     {
         "label": "Stock Alike",
-        "iap_id": "stock_alike",
+        "iap_id": "Stock alike",
         "iap_collections": [
-            "stock_alike"
+            "stock alike"
         ],
         "url": "alike.json",
         "folder": "alike",
@@ -53,7 +53,7 @@
         "label": "Muted Aesthetics",
         "iap_id": "muted_aesthetics",
         "iap_collections": [
-            "muted_aesthetics"
+            "muted aesthetics"
         ],
         "url": "mutedAesthetics.json",
         "folder": "MutedAesthetics",
@@ -73,7 +73,7 @@
         "label": "Kawaii Cutesy",
         "iap_id": "Kawaii cutesy",
         "iap_collections": [
-            "kawaii_cutesy"
+            "kawaii cutesy"
         ],
         "url": "KawaiiCutesy.json",
         "folder": "KawaiiCutesy",
@@ -142,9 +142,9 @@
     },
     {
         "label": "Iridescent Blush",
-        "iap_id": "iridescent_blush",
+        "iap_id": "Iridescent Blush",
         "iap_collections": [
-            "iridescent_blush"
+            "Iridescent Blush"
         ],
         "url": "IridescentBlush.json",
         "folder": "IridescentBlush",
@@ -234,9 +234,8 @@
     },
     {
         "label": "Fancy Animals",
-        "iap_id": "fancy_animal",
         "iap_collections": [
-            "fancy_animal"
+            "fancy animal"
         ],
         "url": "fancyAnimals.json",
         "folder": "FancyAnimals",
