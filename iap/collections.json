@@ -49,6 +49,25 @@
         "desc": "The essence of brand-new phones. both familiar & refreshingly unique.",
         "previewImage": "sa_preview.jpg",
         "colors": ["#065D78", "#1194AA", "rgba(202, 237, 241, 0)"]
+    },{
+        "label": "Muted Aesthetics",
+        "iap_id": "muted_aesthetics",
+        "iap_collections": [
+            "muted_aesthetics"
+        ],
+        "url": "mutedAesthetics.json",
+        "folder": "MutedAesthetics",
+        "pro": true,
+        "preview": [
+            "ma_01.jpg",
+            "ma_02.jpg",
+            "ma_03.jpg",
+            "ma_04.jpg",
+            "ma_05.jpg"
+        ],
+        "desc": "“oft hues, cinematic vibes, and muted aesthetic tones come together to deliver a refined, minimalist experience",
+        "previewImage": "ma_preview.jpg",
+        "colors": ["#315B6B", "#98EED1", "rgba(242, 255, 238, 0)"]
     },
     {
         "label": "Kawaii Cutesy",
