@@ -2,10 +2,10 @@ import json
 
 odyssey_data = []
 
-for i in range(1, 39):
+for i in range(56, 114):
     entry = {
        "a": "YoG",
-        "d": "1472x3200",
+        "d": "1720x3728",
         "n": str(i),
         "t": "/thumbs/Kawaii_Cutesy_{}.jpg".format(i),
         "u": "Kawaii_Cutesy_{}.jpg".format(i)
