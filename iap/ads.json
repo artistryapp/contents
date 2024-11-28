@@ -1,13 +1,25 @@
-[
-    {
-        "img": "https://artistryapp.github.io/contents/iap/ads/pro.jpg",
-        "type": "pro"
-    },
-    {
-        "img": "https://artistryapp.github.io/contents/iap/ads/collection.jpg",
-        "type": "collections",
-        "collection": "AnimeScenery,brushedReality,FunkoPOP,MiniatureCars,NaturesOdyssey,totoro"
-    }
-]
-
-
+{
+    "data": [
+        {
+            "img": "https://artistryapp.github.io/contents/iap/ads/pro.jpg",
+            "type": "navigate",
+            "config": {
+                "route": "Cart",
+                "params": {
+                    "item": { "iap_id" : "plus-yearly" }
+                }
+            }
+        },
+        {
+            "img": "https://artistryapp.github.io/contents/iap/ads/pro.jpg",
+            "type": "navigate",
+            "config": {
+                "route": "Sale",
+                "params": {
+                    
+                }
+            }
+        }
+    ],
+    "count" : 6
+}

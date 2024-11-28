@@ -1,0 +1,13 @@
+[
+    {
+        "img": "https://artistryapp.github.io/contents/iap/ads/pro.jpg",
+        "type": "pro"
+    },
+    {
+        "img": "https://artistryapp.github.io/contents/iap/ads/collection.jpg",
+        "type": "collections",
+        "collection": "AnimeScenery,brushedReality,FunkoPOP,MiniatureCars,NaturesOdyssey,totoro"
+    }
+]
+
+
