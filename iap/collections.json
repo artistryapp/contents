@@ -8,6 +8,7 @@
         "url": "brushedReality.json",
         "folder": "brushedReality",
         "pro": true,
+        "count": "180",
         "preview": [
             "brw13.jpg",
             "brw9.jpg",
@@ -36,6 +37,7 @@
         "url": "alike.json",
         "folder": "alike",
         "pro": true,
+        "count": "91",
         "preview": [
             "sa4.jpg",
             "sa3.jpg",
@@ -58,6 +60,7 @@
         "url": "mutedAesthetics.json",
         "folder": "MutedAesthetics",
         "pro": true,
+        "count": "65",
         "preview": [
             "ma_01.jpg",
             "ma_02.jpg",
@@ -78,6 +81,7 @@
         "url": "KawaiiCutesy.json",
         "folder": "KawaiiCutesy",
         "pro": true,
+        "count": "102",
         "preview": [
             "kw9.jpg",
             "kw4.jpg",
@@ -100,6 +104,7 @@
         "url": "totoro.json",
         "folder": "totoro",
         "pro": true,
+        "count": "92",
         "preview": [
             "tp1.jpeg",
             "tp2.jpeg",
@@ -122,6 +127,7 @@
         "url": "FunkoPOP.json",
         "folder": "FunkoPOP",
         "pro": true,
+        "count": "137",
         "preview": [
             "fpn8.jpg",
             "fpn9.jpg",
@@ -149,6 +155,7 @@
         "url": "IridescentBlush.json",
         "folder": "IridescentBlush",
         "pro": true,
+        "count": "105",
         "preview": [
             "is_1.jpg",
             "is_6.jpg",
@@ -176,6 +183,7 @@
         ],
         "folder": "NaturesOdyssey",
         "pro": false,
+        "count": "174",
         "desc": "Whether you prefer calm lakes with cool tones or coastal cliffs with moody grays, there's a wallpaper for every mood and preference.",
         "previewImage": "odc_preview.jpg",
         "colors": ["#3D649C", "#71A5CD", "rgba(241, 250, 253, 0)"]
@@ -194,6 +202,7 @@
         ],
         "folder": "AnimeScenery",
         "pro": false,
+        "count": "196",
         "desc": "From Snowy forests to a magical castle, each wallpaper is designed to transport you to a different world",
         "previewImage": "asn_preview.jpg",
         "colors": ["#6F4F63", "#E07684", "rgba(255, 202, 201, 0)"]
@@ -213,6 +222,7 @@
         ],
         "folder": "MiniatureCars",
         "pro": false,
+        "count": "278",
         "desc": "Enjoy the Miniature Cars Collection for free!\nThis collection contains 100+ car models from 1886 to the current era with various shots to capture pure beauty!",
         "previewImage": "mc_preview.jpg",
         "colors": ["#26271F", "#635E2A", "rgba(230, 215, 155, 0)"]
@@ -222,6 +232,7 @@
         "url": "chibistyle.json",
         "folder": "ChibiAnimals",
         "pro": false,
+        "count": "154",
         "preview": [
             "chib3.jpg",
             "chib1.jpg",
@@ -241,6 +252,7 @@
         "url": "fancyAnimals.json",
         "folder": "FancyAnimals",
         "pro": true,
+        "count": "275",
         "preview": [
             "fa2.jpg",
             "fa1.jpg",
