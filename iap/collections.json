@@ -96,6 +96,27 @@
         "colors": ["#A035F1", "#BD3DF0", "rgba(224, 106, 254, 0)"]
     },
     {
+        "label": "Dynamic Cloak",
+        "iap_id": "dynamic_cloak",
+        "iap_collections": [
+            "dynamic_cloak"
+        ],
+        "url": "DynamicCloak.json",
+        "folder": "DynamicCloak",
+        "pro": true,
+        "count": "30",
+        "preview": [
+            "dc1.jpg",
+            "dc2.jpg",
+            "dc3.jpg",
+            "dc4.jpg",
+            "dc4.jpg"
+        ],
+        "desc": "Amoled Wallpapers with Aim to Hide your Dynamic Island, Notch or Punch Hole cutout, Amazing AMOLED Collection that stands out and delivers great AMOLED Exeperience.",
+        "previewImage": "dc1.jpg",
+        "colors": ["#102735", "#334D5A", "rgba(138, 173, 169, 0)"]
+    },
+    {
         "label": "Totoro Figurines",
         "iap_id": "totoro_figurines",
         "iap_collections": [
