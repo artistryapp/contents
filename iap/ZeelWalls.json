@@ -2,7 +2,7 @@
   {
     "a": "YoG",
     "d": "1720x3728",
-    "c": "Anime,Scenery",
+    "c": "Anime,Scenery,Featured",
     "n": "GLowing House in Mountain 1",
     "t": "zeel_001164.jpg",
     "u": "zeel_001164.jpg"
@@ -24,7 +24,7 @@
     "p": true,
    "a": "YoG",
     "d": "1720x3728",
-    "c": "Anime,Scenery",
+    "c": "Anime,Scenery,Featured",
     "n": "Train Bridge",
     "t": "ZeelPlus_00983.jpg",
     "u": "ZeelPlus_00983.jpg"
@@ -40,7 +40,7 @@
     "p": true,
    "a": "YoG",
     "d": "1720x3728",
-    "c": "Anime,Scenery",
+    "c": "Anime,Scenery,Featured",
     "n": "Mushrooms",
     "t": "ZeelPlus_00985.jpg",
     "u": "ZeelPlus_00985.jpg"
@@ -94,7 +94,7 @@
   },{
     "a": "YoG",
     "d": "1720x3728",
-    "c": "Illustration",
+    "c": "Illustration,Featured",
     "n": "Aesthetic Landscape 1",
     "t": "zeel_001140.jpg",
     "u": "zeel_001140.jpg"
@@ -132,7 +132,7 @@
     "p": true,
    "a": "YoG",
     "d": "1720x3728",
-    "c": "Portrait",
+    "c": "Portrait,Featured",
     "n": "Glowing Creature 3",
     "t": "ZeelPlus_00967.jpg",
     "u": "ZeelPlus_00967.jpg"
@@ -154,7 +154,7 @@
   },{
     "a": "YoG",
     "d": "1720x3728",
-    "c": "Anime,Scenery",
+    "c": "Anime,Scenery,Featured",
     "n": "Late Night House 2",
     "t": "zeel_001168.jpg",
     "u": "zeel_001168.jpg"
@@ -177,7 +177,7 @@
     "p": true,
    "a": "YoG",
     "d": "1720x3728",
-    "c": "Anime,Scenery",
+    "c": "Anime,Scenery,Featured",
     "n": "tree house",
     "t": "ZeelPlus_00976.jpg",
     "u": "ZeelPlus_00976.jpg"
@@ -214,7 +214,7 @@
     "p": true,
    "a": "YoG",
     "d": "1720x3728",
-    "c": "Anime,Scenery",
+    "c": "Anime,Scenery,Featured",
     "n": "Cliff 1",
     "t": "ZeelPlus_00978.jpg",
     "u": "ZeelPlus_00978.jpg"
@@ -275,14 +275,14 @@
     "p": true,
    "a": "YoG",
     "d": "1720x3728",
-    "c": "Abstract",
+    "c": "Abstract,Featured",
     "n": "Rendered Waves 3",
     "t": "ZeelPlus_00960.jpg",
     "u": "ZeelPlus_00960.jpg"
   },{
     "a": "YoG",
     "d": "1720x3728",
-    "c": "Architecture",
+    "c": "Architecture,Featured",
     "n": "Interior 1",
     "t": "zeel_001113.jpg",
     "u": "zeel_001113.jpg"
@@ -312,7 +312,7 @@
      "p": true,
      "a": "YoG",
      "d": "1720x3728",
-     "c": "Christmas",
+     "c": "Christmas,Featured",
      "n": "Elf 2",
      "t": "ZeelPlus_00938.jpg",
      "u": "ZeelPlus_00938.jpg"
@@ -336,7 +336,7 @@
     "p": true,
      "a": "YoG",
      "d": "1720x3728",
-     "c": "Abstract",
+     "c": "Abstract,Featured",
      "n": "Flowers 2",
      "t": "ZeelPlus_00944.jpg",
      "u": "ZeelPlus_00944.jpg"
@@ -368,7 +368,7 @@
     "p": true,
      "a": "YoG",
      "d": "1720x3728",
-     "c": "Amoled",
+     "c": "Amoled,Featured",
      "n": "Robot 3",
      "t": "ZeelPlus_00942.jpg",
      "u": "ZeelPlus_00942.jpg"
@@ -376,7 +376,7 @@
     "p": true,
      "a": "YoG",
      "d": "1720x3728",
-     "c": "Anime,Portrait",
+     "c": "Anime,Portrait,Featured",
      "n": "Holding onto a skull",
      "t": "ZeelPlus_00878.jpg",
      "u": "ZeelPlus_00878.jpg"
@@ -400,7 +400,7 @@
     "p": true,
      "a": "YoG",
      "d": "1720x3728",
-     "c": "Anime",
+     "c": "Anime,Featured",
      "n": "Ghibli Anime 1",
      "t": "ZeelPlus_00934.jpg",
      "u": "ZeelPlus_00934.jpg"
@@ -465,7 +465,7 @@
     "p": true,
      "a": "YoG",
      "d": "1720x3728",
-     "c": "Doodles,Amoled",
+     "c": "Doodles,Amoled,Featured",
      "n": "Colored brush 3",
      "t": "ZeelPlus_00908.jpg",
      "u": "ZeelPlus_00908.jpg"
@@ -759,7 +759,7 @@
     "p": true,
      "a": "YoG",
      "d": "1720x3728",
-     "c": "Space,Amoled",
+     "c": "Space,Amoled,Featured",
      "n": "Astronaut",
      "t": "ZeelPlus_00930.jpg",
      "u": "ZeelPlus_00930.jpg"
@@ -792,7 +792,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Scenery",
+  "c": "Scenery,Featured",
   "n": "Sunset 1",
   "t": "ZeelPlus_00899.jpg",
   "u": "ZeelPlus_00899.jpg"
@@ -851,7 +851,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Anime",
+  "c": "TV,Featured",
   "n": "Adventure Time 1",
   "t": "ZeelPlus_00902.jpg",
   "u": "ZeelPlus_00902.jpg"
@@ -860,7 +860,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Anime",
+  "c": "TV,Featured",
   "n": "Adventure Time 2",
   "t": "ZeelPlus_00903.jpg",
   "u": "ZeelPlus_00903.jpg"
@@ -869,7 +869,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Anime",
+  "c": "TV",
   "n": "Adventure Time 3",
   "t": "ZeelPlus_00904.jpg",
   "u": "ZeelPlus_00904.jpg"
@@ -878,7 +878,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Anime",
+  "c": "TV",
   "n": "Adventure Time 4",
   "t": "ZeelPlus_00905.jpg",
   "u": "ZeelPlus_00905.jpg"
@@ -911,7 +911,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Architecture,Anime,Scenery",
+  "c": "Architecture,Anime,Scenery,Featured",
   "n": "House 1",
   "t": "ZeelPlus_00896.jpg",
   "u": "ZeelPlus_00896.jpg"
@@ -953,8 +953,8 @@
   {
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Amoled,Space",
-  "n": "hooded",
+  "c": "Amoled,Space,Featured",
+  "n": "SpaceShip",
   "t": "zeel_001067.jpg",
   "u": "zeel_001067.jpg"
   },
@@ -1090,7 +1090,7 @@
   {
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Amoled",
+  "c": "Amoled,Featured",
   "n": "Blue Portal",
   "t": "zeel_001074.jpg",
   "u": "zeel_001074.jpg"
@@ -1174,7 +1174,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Illustration",
+  "c": "Illustration,Featured",
   "n": "Caged Human 1",
   "t": "ZeelPlus_00846.jpg",
   "u": "ZeelPlus_00846.jpg"
@@ -1225,7 +1225,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Illustration",
+  "c": "Illustration,Featured",
   "n": "Thumbs",
   "t": "ZeelPlus_00884.jpg",
   "u": "ZeelPlus_00884.jpg"
@@ -1276,7 +1276,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Abstract,Texture",
+  "c": "Abstract,Texture,Featured",
   "n": "Colorful Texture 1",
   "t": "ZeelPlus_00840.jpg",
   "u": "ZeelPlus_00840.jpg"
@@ -1285,7 +1285,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Abstract,Texture",
+  "c": "Abstract,Texture,Featured",
   "n": "Colorful Texture 2",
   "t": "ZeelPlus_00841.jpg",
   "u": "ZeelPlus_00841.jpg"
@@ -1354,7 +1354,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Illustration,Scenery",
+  "c": "Illustration,Scenery,Featured",
   "n": "Colorful street in Dark Night",
   "t": "ZeelPlus_00883.jpg",
   "u": "ZeelPlus_00883.jpg"
@@ -1362,7 +1362,7 @@
   {
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Amoled,TV",
+  "c": "Amoled,TV,Featured",
   "n": "Deadpool",
   "t": "zeel_001090.jpg",
   "u": "zeel_001090.jpg"
@@ -1387,7 +1387,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Vehicles",
+  "c": "Vehicles,Featured",
   "n": "Car on street 1",
   "t": "ZeelPlus_00856.jpg",
   "u": "ZeelPlus_00856.jpg"
@@ -1421,7 +1421,7 @@
   {
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Amoled,Texture",
+  "c": "Amoled,Texture,Featured",
   "n": "Abstract Steel",
   "t": "zeel_001094.jpg",
   "u": "zeel_001094.jpg"
@@ -1438,7 +1438,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Illustration,Gaming",
+  "c": "Illustration,Gaming,Featured",
   "n": "Gaming Glow",
   "t": "ZeelPlus_00865.jpg",
   "u": "ZeelPlus_00865.jpg"
@@ -1447,7 +1447,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Illustration,Gaming",
+  "c": "Illustration,Gaming,Featured",
   "n": "Hurrey",
   "t": "ZeelPlus_00866.jpg",
   "u": "ZeelPlus_00866.jpg"
@@ -1498,7 +1498,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Illustration",
+  "c": "Illustration,Featured",
   "n": "Skull 1",
   "t": "ZeelPlus_00869.jpg",
   "u": "ZeelPlus_00869.jpg"
@@ -1507,7 +1507,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Illustration",
+  "c": "Illustration,Featured",
   "n": "Skull 2",
   "t": "ZeelPlus_00870.jpg",
   "u": "ZeelPlus_00870.jpg"
@@ -1609,7 +1609,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Illustration,Birds",
+  "c": "Illustration,Birds,Featured",
   "n": "Owl 2",
   "t": "ZeelPlus_00854.jpg",
   "u": "ZeelPlus_00854.jpg"
@@ -1634,7 +1634,7 @@
   {
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Amoled",
+  "c": "Amoled,Featured",
   "n": "Abstract Amoled 2",
   "t": "zeel_001024.jpg",
   "u": "zeel_001024.jpg"
@@ -1702,7 +1702,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Anime,TV",
+  "c": "Anime,TV,Featured",
   "n": "Luffy One Piece 1",
   "t": "ZeelPlus_00836.jpg",
   "u": "ZeelPlus_00836.jpg"
@@ -1761,7 +1761,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Animals",
+  "c": "Animals,Featured",
   "n": "Koala",
   "t": "ZeelPlus_00830.jpg",
   "u": "ZeelPlus_00830.jpg"
@@ -1795,7 +1795,7 @@
   {
   "a": "YoG",
   "d": "1720x3728",
-  "c": "TV",
+  "c": "TV,Featured",
   "n": "Arcane 2",
   "t": "zeel_001051.jpg",
   "u": "zeel_001051.jpg"
@@ -1812,7 +1812,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Anime,Scenery",
+  "c": "Anime,Scenery,Featured",
   "n": "Street 1",
   "t": "ZeelPlus_00833.jpg",
   "u": "ZeelPlus_00833.jpg"
@@ -1881,7 +1881,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Waves",
+  "c": "Waves,Featured",
   "n": "Waves 3",
   "t": "ZeelPlus_00805.jpg",
   "u": "ZeelPlus_00805.jpg"
@@ -1890,7 +1890,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Texture",
+  "c": "Texture,Featured",
   "n": "Colorful 1",
   "t": "ZeelPlus_00797.jpg",
   "u": "ZeelPlus_00797.jpg"
@@ -1924,7 +1924,7 @@
   {
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Spiritual",
+  "c": "Spiritual,Featured",
   "n": "God alike 2",
   "t": "zeel_001027.jpg",
   "u": "zeel_001027.jpg"
@@ -1967,7 +1967,7 @@
   "p": true,
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Portrait,Anime",
+  "c": "Portrait,Anime,Featured",
   "n": "Silhoutte 3",
   "t": "ZeelPlus_00823.jpg",
   "u": "ZeelPlus_00823.jpg"
@@ -1983,7 +1983,7 @@
   {
   "a": "YoG",
   "d": "1720x3728",
-  "c": "Vehicles",
+  "c": "Vehicles,Featured",
   "n": "Car 2",
   "t": "zeel_00999.jpg",
   "u": "zeel_00999.jpg"
