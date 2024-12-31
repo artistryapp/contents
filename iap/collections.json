@@ -1,26 +1,76 @@
 [
     {
-        "label": "Fancy Animals",
-        "iap_id": "fancy_animal",
+        "label": "Muted Aesthetics",
+        "iap_id": "muted_aesthetics",
         "iap_collections": [
-            "fancy_animal"
+            "muted_aesthetics"
         ],
-        "url": "fancyAnimals.json",
-        "folder": "FancyAnimals",
-        "count": "275",
+        "url": "mutedAesthetics.json",
+        "folder": "MutedAesthetics",
+        "pro": true,
+        "count": "143",
         "preview": [
-            "fa2.jpg",
-            "fa1.jpg",
-            "fa3.jpg",
-            "fa6.jpg",
-            "fa4.jpg",
-            "fa7.jpg",
-            "fa8.jpg"
+            "ma_01.jpg",
+            "ma_03.jpg",
+            "ma_02.jpg",
+            "ma_04.jpg",
+            "ma_05.jpg"
         ],
-        "desc": "Fancy Animals wearing wollen sweater, the only christmas collection you need.",
-        "previewImage": "fa_preview.jpg",
-        "colors": ["#36301B", "#D49B66", "rgba(244, 233, 167, 0)"]
+        "desc": "Soft hues, cinematic vibes, and muted aesthetic tones come together to deliver a refined, minimalist experience",
+        "previewImage": "ma_preview.jpg",
+        "colors": ["#315B6B", "#98EED1", "rgba(242, 255, 238, 0)"]
     },{
+        "label": "Funko PoP",
+        "iap_id": "funko_pop",
+        "iap_collections": [
+            "funko_pop"
+        ],
+        "url": "FunkoPOP.json",
+        "folder": "FunkoPOP",
+        "pro": true,
+        "count": "137",
+        "preview": [
+            "fpn8.jpg",
+            "fpn14.jpg",
+            "fpn13.jpg",
+            "fpn15.jpg",
+            "fpn12.jpg",
+            "fpn1.jpeg",
+            "fpn2.jpeg",
+            "fpn3.jpeg",
+            "fpn4.jpeg",
+            "fpn5.jpeg",
+            "fpn6.jpeg",
+            "fpn7.jpeg"
+        ],
+        "desc": "Unique collectible figures inspired by popular characters from movies, TV shows, and video games, all recreated in Funko Pop! vinyl figure style. With a mix of iconic heroes, villains, and sidekicks, you're sure to find a wallpaper that suits your style.",
+        "previewImage": "fpn_preview.jpg",
+        "colors": ["#15191C", "#494B4A", "rgba(105, 107, 104, 0)"]
+    },
+    {
+        "label": "Kawaii Cutesy",
+        "iap_id": "Kawaii cutesy",
+        "iap_collections": [
+            "kawaii_cutesy"
+        ],
+        "url": "KawaiiCutesy.json",
+        "folder": "KawaiiCutesy",
+        "pro": true,
+        "count": "148",
+        "preview": [
+            "kw11.jpg",
+            "kw13.jpg",
+            "kw12.jpg",
+            "kw8.jpg",
+            "kw3.jpg",
+            "kw6.jpg",
+            "kw5.jpg"
+        ],
+        "desc": "Aesthetic outlines surrounded by nature elements. beautiful,vibrant,perfect for lockscreens",
+        "previewImage": "kw_preview.jpg",
+        "colors": ["#A035F1", "#BD3DF0", "rgba(224, 106, 254, 0)"]
+    },
+    {
         "label": "Brushed Reality",
         "iap_id": "brushed_reality",
         "iap_collections": [
@@ -72,49 +122,6 @@
         "desc": "The essence of brand-new phones. both familiar & refreshingly unique.",
         "previewImage": "sa_preview.jpg",
         "colors": ["#065D78", "#1194AA", "rgba(202, 237, 241, 0)"]
-    },{
-        "label": "Muted Aesthetics",
-        "iap_id": "muted_aesthetics",
-        "iap_collections": [
-            "muted_aesthetics"
-        ],
-        "url": "mutedAesthetics.json",
-        "folder": "MutedAesthetics",
-        "pro": true,
-        "count": "81",
-        "preview": [
-            "ma_01.jpg",
-            "ma_02.jpg",
-            "ma_03.jpg",
-            "ma_04.jpg",
-            "ma_05.jpg"
-        ],
-        "desc": "Soft hues, cinematic vibes, and muted aesthetic tones come together to deliver a refined, minimalist experience",
-        "previewImage": "ma_preview.jpg",
-        "colors": ["#315B6B", "#98EED1", "rgba(242, 255, 238, 0)"]
-    },
-    {
-        "label": "Kawaii Cutesy",
-        "iap_id": "Kawaii cutesy",
-        "iap_collections": [
-            "kawaii_cutesy"
-        ],
-        "url": "KawaiiCutesy.json",
-        "folder": "KawaiiCutesy",
-        "pro": true,
-        "count": "148",
-        "preview": [
-            "kw9.jpg",
-            "kw4.jpg",
-            "kw10.jpg",
-            "kw8.jpg",
-            "kw3.jpg",
-            "kw6.jpg",
-            "kw5.jpg"
-        ],
-        "desc": "Aesthetic outlines surrounded by nature elements. beautiful,vibrant,perfect for lockscreens",
-        "previewImage": "kw_preview.jpg",
-        "colors": ["#A035F1", "#BD3DF0", "rgba(224, 106, 254, 0)"]
     },
     {
         "label": "Dynamic Cloak",
@@ -160,34 +167,7 @@
         "previewImage": "tp_preview.jpg",
         "colors": ["#315B6B", "#98EED1", "rgba(242, 255, 238, 0)"]
     },
-    {
-        "label": "Funko PoP",
-        "iap_id": "funko_pop",
-        "iap_collections": [
-            "funko_pop"
-        ],
-        "url": "FunkoPOP.json",
-        "folder": "FunkoPOP",
-        "pro": true,
-        "count": "137",
-        "preview": [
-            "fpn8.jpg",
-            "fpn9.jpg",
-            "fpn10.jpg",
-            "fpn11.jpg",
-            "fpn12.jpg",
-            "fpn1.jpeg",
-            "fpn2.jpeg",
-            "fpn3.jpeg",
-            "fpn4.jpeg",
-            "fpn5.jpeg",
-            "fpn6.jpeg",
-            "fpn7.jpeg"
-        ],
-        "desc": "Unique collectible figures inspired by popular characters from movies, TV shows, and video games, all recreated in Funko Pop! vinyl figure style. With a mix of iconic heroes, villains, and sidekicks, you're sure to find a wallpaper that suits your style.",
-        "previewImage": "fpn_preview.jpg",
-        "colors": ["#15191C", "#494B4A", "rgba(105, 107, 104, 0)"]
-    },
+    
     {
         "label": "Iridescent Blush",
         "iap_id": "iridescent_blush",
@@ -284,5 +264,26 @@
         "desc": "Chibi Style Animal Wallpapers, one of our first AI wallpaper collections, has been brought back by popular demand for our users to enjoy within the app.",
         "previewImage": "chib_preview.jpg",
         "colors": ["#102735", "#334D5A", "rgba(138, 173, 169, 0)"]
+    },{
+        "label": "Fancy Animals",
+        "iap_id": "fancy_animal",
+        "iap_collections": [
+            "fancy_animal"
+        ],
+        "url": "fancyAnimals.json",
+        "folder": "FancyAnimals",
+        "count": "275",
+        "preview": [
+            "fa2.jpg",
+            "fa1.jpg",
+            "fa3.jpg",
+            "fa6.jpg",
+            "fa4.jpg",
+            "fa7.jpg",
+            "fa8.jpg"
+        ],
+        "desc": "Fancy Animals wearing wollen sweater, the only christmas collection you need.",
+        "previewImage": "fa_preview.jpg",
+        "colors": ["#36301B", "#D49B66", "rgba(244, 233, 167, 0)"]
     }
 ]
