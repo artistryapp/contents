@@ -7,7 +7,7 @@ data = [
         "t": f"ZeelPlus_00{n}.jpg",
         "u": f"ZeelPlus_00{n}.jpg"
     }
-    for n in range(1275, 1304)
+    for n in range(1305, 1331)
 ]
 
 import json
@@ -15,7 +15,4 @@ import json
 # Convert to formatted JSON string
 formatted_json = json.dumps(data, indent=2)
 
-
-with open("plus.json", "w") as json_file:
-    json.dump(data, formatted_json, indent=2)
-
+print(formatted_json)

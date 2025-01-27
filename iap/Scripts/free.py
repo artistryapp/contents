@@ -7,11 +7,11 @@ data = [
         "t": f"zeel_00{n}.jpg",
         "u": f"zeel_00{n}.jpg"
     }
-    for n in range(1424, 1457)
+    for n in range(1455, 1487)
 ]
 
 import json
 
 # Convert to formatted JSON string
 formatted_json = json.dumps(data, indent=2)
-formatted_json
+print(formatted_json)
