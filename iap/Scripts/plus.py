@@ -1,13 +1,14 @@
 data = [
     {
         "a": "YoG",
+         "p": true,
         "d": "1720x3728",
         "c": "Anime",
         "n": "",
         "t": f"ZeelPlus_00{n}.jpg",
         "u": f"ZeelPlus_00{n}.jpg"
     }
-    for n in range(1305, 1331)
+    for n in range(1377, 1409)
 ]
 
 import json
