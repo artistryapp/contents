@@ -8,7 +8,7 @@ data = [
         "t": f"ZeelPlus_00{n}.jpg",
         "u": f"ZeelPlus_00{n}.jpg"
     }
-    for n in range(1377, 1409)
+    for n in range(1409, 1474)
 ]
 
 import json
