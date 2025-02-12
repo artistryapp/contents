@@ -19,6 +19,27 @@
         "desc": "Soft hues, cinematic vibes, and muted aesthetic tones come together to deliver a refined, minimalist experience",
         "previewImage": "ma_preview.jpg",
         "colors": ["#315B6B", "#98EED1", "rgba(242, 255, 238, 0)"]
+    },
+    {
+        "label": "Cosmic Essence",
+        "iap_id": "cosmic_essence",
+        "iap_collections": [
+            "cosmic_essence"
+        ],
+        "url": "cosmic.json",
+        "folder": "cosmic",
+        "pro": true,
+        "count": "29",
+        "preview": [
+            "c_6.jpg",
+            "c_2.jpg",
+            "c_3.jpg",
+            "c_1.jpg",
+            "c_4.jpg"
+        ],
+        "desc": "Soft hues, cinematic vibes, and muted aesthetic tones come together to deliver a refined, minimalist experience",
+        "previewImage": "ma_preview.jpg",
+        "colors": ["#315B6B", "#98EED1", "rgba(242, 255, 238, 0)"]
     },{
         "label": "Funko PoP",
         "iap_id": "funko_pop",
