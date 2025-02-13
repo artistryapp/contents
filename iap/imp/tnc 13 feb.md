@@ -1,6 +1,6 @@
 **Terms & Conditions**  
 
-These terms and conditions apply to the Zeel Walls - 4k Wallpaper App app (hereby referred to as "Application") for mobile devices that was created by YoG (hereby referred to as "Service Provider") as a Freemium service.
+These terms and conditions applies to the Zeel Walls app (hereby referred to as "Application") for mobile devices that was created by YoG (hereby referred to as "Service Provider") as a Freemium service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
@@ -11,7 +11,6 @@ The Application stores and processes personal data that you have provided to the
 Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://policies.google.com/terms)
-*   [AdMob](https://developers.google.com/admob/terms)
 *   [One Signal](https://onesignal.com/tos)
 *   [Expo](https://expo.io/terms)
 *   [RevenueCat](https://www.revenuecat.com/terms)

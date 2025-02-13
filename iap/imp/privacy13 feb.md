@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Zeel Walls - 4k Wallpaper App app (hereby referred to as "Application") for mobile devices that was created by YoG (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the Zeel Walls app (hereby referred to as "Application") for mobile devices that was created by YoG (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -21,7 +21,7 @@ The Application collects your device's location, which helps the Service Provide
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 **Third Party Access**
 
@@ -30,7 +30,6 @@ Only aggregated, anonymized data is periodically transmitted to external service
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [One Signal](https://onesignal.com/privacy_policy)
 *   [Expo](https://expo.io/privacy)
 *   [RevenueCat](https://www.revenuecat.com/privacy)
@@ -53,7 +52,7 @@ The Service Provider will retain User Provided data for as long as you use the A
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (ybgosavi12@gmail.com) so that they will be able to take the necessary actions.
+The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (ybgosavi12@gmail.com) so that they will be able to take the necessary actions.
 
 **Security**
 
